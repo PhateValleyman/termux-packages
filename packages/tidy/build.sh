@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=http://www.html-tidy.org/
 TERMUX_PKG_DESCRIPTION="A tool to tidy down your HTML code to a clean style"
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_LICENSE_FILE="README/LICENSE.md"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Using unstable API version due to CVE-2021-33391.
 # Please revbump revdeps to rebuild when bumping version.
 TERMUX_PKG_VERSION=5.9.14-next

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cointop.sh/
 TERMUX_PKG_DESCRIPTION="A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.6.10
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/cointop-sh/cointop/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

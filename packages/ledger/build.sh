@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.ledger-cli.org
 TERMUX_PKG_DESCRIPTION="Powerful, double-entry accounting system"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.2"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/ledger/ledger/archive/v${TERMUX_PKG_VERSION}.tar.gz

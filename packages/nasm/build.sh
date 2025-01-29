@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nasm.us
 TERMUX_PKG_DESCRIPTION="A cross-platform x86 assembler with an Intel-like syntax"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.16.03"
 TERMUX_PKG_SRCURL=https://www.nasm.us/pub/nasm/releasebuilds/${TERMUX_PKG_VERSION}/nasm-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=5bc940dd8a4245686976a8f7e96ba9340a0915f2d5b88356874890e207bdb581

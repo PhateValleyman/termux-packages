@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://forgejo.org/
 TERMUX_PKG_DESCRIPTION="Forgejo is a self-hosted lightweight software forge."
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="10.0.0"
 TERMUX_PKG_SRCURL=https://codeberg.org/forgejo/forgejo/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=cda67cce9fab838eb4f218829556f1f3dfc76faadb7a8304cad499264ed5d9d7

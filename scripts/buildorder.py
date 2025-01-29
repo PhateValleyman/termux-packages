@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/data/data/com.termux/files/usr/bin/env python3
 "Script to generate a build order respecting package dependencies."
 
 import json, os, re, sys

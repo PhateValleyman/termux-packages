@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.riverbankcomputing.com/software/pyqt/
 TERMUX_PKG_DESCRIPTION="Comprehensive Python Bindings for Qt v5"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.15.11"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://files.pythonhosted.org/packages/source/P/PyQt5/PyQt5-${TERMUX_PKG_VERSION}.tar.gz

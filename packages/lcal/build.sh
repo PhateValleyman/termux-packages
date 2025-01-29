@@ -4,7 +4,7 @@ TERMUX_PKG_DESCRIPTION="A multi-platform program which generates PostScript luna
 # and Pipeline Associates, Inc. with permission to modify and redistribute.
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="ReadMe.txt, COPYRIGHT.moonphase"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.1.0
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/pcal/lcal-${TERMUX_PKG_VERSION}.tgz
 TERMUX_PKG_SHA256=c3c4c2bdec5f5129004385f06960f56bc0e3671ae835ee39044598fb76480f70

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 # source-ssh-agent: Script to source for ssh-agent to work.
 
 start_agent() {

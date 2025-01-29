@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 show_help () {
 echo "usage: llvm-config <OPTION>... [<COMPONENT>...]
 

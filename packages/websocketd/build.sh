@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://websocketd.com/
 TERMUX_PKG_DESCRIPTION="Turn any program that uses STDIN/STDOUT into a WebSocket server"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.4.1"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/joewalnes/websocketd/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

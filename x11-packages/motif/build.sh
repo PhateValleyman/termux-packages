@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceforge.net/projects/motif/
 TERMUX_PKG_DESCRIPTION="Motif widget toolkit"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.3.8
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/project/motif/Motif%20${TERMUX_PKG_VERSION}%20Source%20Code/motif-${TERMUX_PKG_VERSION}.tar.gz

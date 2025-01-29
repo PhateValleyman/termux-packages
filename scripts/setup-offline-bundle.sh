@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 ##
 ## Download all package sources and install all build tools whether possible,
 ## so they will be available offline.

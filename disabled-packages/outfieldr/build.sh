@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/ve-nt/outfieldr
 TERMUX_PKG_DESCRIPTION="A TLDR client in Zig"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.3
 TERMUX_PKG_SRCURL=git+https://gitlab.com/ve-nt/outfieldr
 TERMUX_PKG_GIT_BRANCH=$TERMUX_PKG_VERSION

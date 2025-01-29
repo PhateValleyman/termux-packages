@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sites.google.com/site/tstyblo/wmctrl/
 TERMUX_PKG_DESCRIPTION="A UNIX/Linux command line tool to interact with an EWMH/NetWM compatible X Window Manager"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.07
 TERMUX_PKG_REVISION=1
 # Origiginal source is unavailable so I am replacing it with debian's dump to make sure it will be rebuilt fine

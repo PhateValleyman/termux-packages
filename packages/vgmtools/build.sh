@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/vgmrips/vgmtools
 TERMUX_PKG_DESCRIPTION="A collection of tools for the VGM file format"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=fc55484b5902191e5467e6044bb90c1c74a0c938
 TERMUX_PKG_VERSION=2023.01.27
 TERMUX_PKG_SRCURL=git+https://github.com/vgmrips/vgmtools

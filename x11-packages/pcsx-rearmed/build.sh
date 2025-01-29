@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/notaz/pcsx_rearmed
 TERMUX_PKG_DESCRIPTION="Yet another PCSX fork based on the PCSX-Reloaded project"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=23
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=git+https://github.com/notaz/pcsx_rearmed

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/Web
 TERMUX_PKG_DESCRIPTION="A GNOME web browser based on the WebKit rendering engine"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="44.5"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/epiphany/${TERMUX_PKG_VERSION%.*}/epiphany-${TERMUX_PKG_VERSION}.tar.xz

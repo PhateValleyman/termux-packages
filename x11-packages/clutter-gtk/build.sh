@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/Clutter
 TERMUX_PKG_DESCRIPTION="A library providing facilities to integrate Clutter into GTK+ applications and vice versa"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=1.8
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.4
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/clutter-gtk/${_MAJOR_VERSION}/clutter-gtk-${TERMUX_PKG_VERSION}.tar.xz

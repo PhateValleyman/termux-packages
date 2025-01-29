@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ebassi.github.io/graphene/
 TERMUX_PKG_DESCRIPTION="A thin layer of graphic data types"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=1.10
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.8
 TERMUX_PKG_REVISION=1

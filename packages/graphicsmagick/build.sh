@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.graphicsmagick.org/
 TERMUX_PKG_DESCRIPTION="Collection of image processing tools"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.45"
 TERMUX_PKG_REVISION=2
 # Bandwith limited on main ftp site, so it's asked to use sourceforge instead:

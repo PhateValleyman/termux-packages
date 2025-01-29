@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://asciidoc.org
 TERMUX_PKG_DESCRIPTION="Text document format for short documents, articles, books and UNIX man pages."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="10.2.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/asciidoc/asciidoc-py3/archive/${TERMUX_PKG_VERSION}.tar.gz

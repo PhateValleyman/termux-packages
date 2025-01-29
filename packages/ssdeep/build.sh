@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ssdeep-project.github.io/ssdeep/
 TERMUX_PKG_DESCRIPTION="A program for computing context triggered piecewise hashes (CTPH)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.14.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/ssdeep-project/ssdeep/archive/refs/tags/release-${TERMUX_PKG_VERSION}.tar.gz

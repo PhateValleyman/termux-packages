@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kakoune-lsp/kakoune-lsp
 TERMUX_PKG_DESCRIPTION="Language Server Protocol Client for the Kakoune editor"
 TERMUX_PKG_LICENSE="MIT, Unlicense"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="18.1.1"
 TERMUX_PKG_SRCURL=https://github.com/kakoune-lsp/kakoune-lsp/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=cb0f8185dfd7952f213e3b11cbcea36a9420514710589c37c5db594f5144f3ac

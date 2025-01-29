@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.ladspa.org/
 TERMUX_PKG_DESCRIPTION="Linux Audio Developer's Simple Plugin API"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.17
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://www.ladspa.org/download/ladspa_sdk_${TERMUX_PKG_VERSION}.tgz

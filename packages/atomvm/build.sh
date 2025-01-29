@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/bettio/AtomVM
 TERMUX_PKG_DESCRIPTION="The minimal Erlang VM implementation"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:0.6.5"
 TERMUX_PKG_SRCURL=https://github.com/atomvm/AtomVM/archive/refs/tags/v${TERMUX_PKG_VERSION#*:}.tar.gz
 TERMUX_PKG_SHA256=f1831eb3e05e07b1a0855f592de5e6e22e4e89acb72d7345b40a8db16eae7ea8

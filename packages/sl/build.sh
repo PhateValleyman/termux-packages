@@ -8,7 +8,7 @@ TERMUX_PKG_SHA256=6c941b526e3d01be7f91a3af4ae20a89d1e5d66b3b2d804c80123b1b1be963
 TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_UPDATE_TAG_TYPE='newest-tag'
 TERMUX_PKG_DEPENDS="ncurses"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_BUILD_IN_SRC=true
 
 termux_step_make_install() {

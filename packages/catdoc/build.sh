@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.wagner.pp.ru/~vitus/software/catdoc/
 TERMUX_PKG_DESCRIPTION="Program which reads MS-Word file and prints readable ASCII text to stdout"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.95"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://ftp.wagner.pp.ru/pub/catdoc/catdoc-${TERMUX_PKG_VERSION}.tar.gz

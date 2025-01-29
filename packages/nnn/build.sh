@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jarun/nnn
 TERMUX_PKG_DESCRIPTION="Free, fast, friendly file browser"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.0"
 TERMUX_PKG_SRCURL=https://github.com/jarun/nnn/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=31e8fd85f3dd7ab2bf0525c3c0926269a1e6d35a5343a6714315642370d8605a

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kpet/clvk
 TERMUX_PKG_DESCRIPTION="Experimental implementation of OpenCL on Vulkan"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=a91d6a8092592f99971e6cd68fed8ecd57f19700
 _COMMIT_DATE=20250121
 _COMMIT_TIME=215854

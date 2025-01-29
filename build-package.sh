@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # shellcheck disable=SC1117
 
 # Setting the TMPDIR variable
-: "${TMPDIR:=/tmp}"
+: "${TMPDIR:=/data/data/com.termux/files/usr/tmp}"
 export TMPDIR
 
 # Set the build-package.sh call depth

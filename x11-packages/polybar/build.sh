@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://polybar.github.io
 TERMUX_PKG_DESCRIPTION="A fast and easy-to-use status bar"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.7.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/polybar/polybar/releases/download/${TERMUX_PKG_VERSION}/polybar-${TERMUX_PKG_VERSION}.tar.gz"

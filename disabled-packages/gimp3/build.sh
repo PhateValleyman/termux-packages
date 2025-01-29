@@ -3,7 +3,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gimp.org/
 TERMUX_PKG_DESCRIPTION="GNU Image Manipulation Program"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=2.99
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.12
 TERMUX_PKG_SRCURL=https://download.gimp.org/mirror/pub/gimp/v${_MAJOR_VERSION}/gimp-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.dmulholl.com/dev/mp3cat.html
 TERMUX_PKG_DESCRIPTION="A command line utility for joining MP3 files."
 TERMUX_PKG_LICENSE="Unlicense"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=4.2.2
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/dmulholl/mp3cat/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://boxes.thomasjensen.com/
 TERMUX_PKG_DESCRIPTION="A command line filter program which draws ASCII art boxes around your input text"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.3.1"
 TERMUX_PKG_SRCURL=https://github.com/ascii-boxes/boxes/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=0834e54c0d5293950412729cabf16ada3076a804eacba8f1aacc5381dfe3a96a

@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A library for multiplying polynomials over the binary fi
 TERMUX_PKG_GROUPS="science"
 # Using file:'toom-gpl.c' enforces GPL license
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.0"
 TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_SRCURL="https://gitlab.inria.fr/gf2x/gf2x/-/archive/gf2x-$TERMUX_PKG_VERSION/gf2x-gf2x-$TERMUX_PKG_VERSION.tar.gz"

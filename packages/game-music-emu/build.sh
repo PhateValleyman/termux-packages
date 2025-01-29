@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bitbucket.org/mpyne/game-music-emu/wiki/Home
 TERMUX_PKG_DESCRIPTION="A collection of video game music file emulators"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.6.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://bitbucket.org/mpyne/game-music-emu/downloads/game-music-emu-${TERMUX_PKG_VERSION}.tar.xz

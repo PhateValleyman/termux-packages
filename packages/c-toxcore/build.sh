@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tox.chat
 TERMUX_PKG_DESCRIPTION="Backend library for the Tox protocol"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Match commit SHA with toxic/blob/master/script/build-minimal-static-toxic.sh
 _COMMIT=0f12f384c8cf62310b9cff6c31e94af7126b7478
 _COMMIT_DATE=20250105

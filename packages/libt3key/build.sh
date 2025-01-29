@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://os.ghalkes.nl/t3/libt3key.html
 TERMUX_PKG_DESCRIPTION="A library and database with escape sequence to key symbol mappings"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.11"
 TERMUX_PKG_SRCURL=https://os.ghalkes.nl/dist/libt3key-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=e4dfdef50be52e365f68745df6177e819df5a7600e61716063d5480f7db3c06c

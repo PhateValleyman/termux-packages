@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/bootandy/dust"
 TERMUX_PKG_DESCRIPTION="A more intuitive version of du in rust"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.1"
 TERMUX_PKG_SRCURL=https://github.com/bootandy/dust/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=98cae3e4b32514e51fcc1ed07fdbe6929d4b80942925348cc6e57b308d9c4cb0

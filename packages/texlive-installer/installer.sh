@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 set -e
 export PREFIX=@TERMUX_PREFIX@
 export TMPDIR=@TERMUX_PREFIX@/tmp

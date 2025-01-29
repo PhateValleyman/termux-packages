@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ckolivas/lrzip
 TERMUX_PKG_DESCRIPTION="A compression utility that excels at compressing large files"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.651
 TERMUX_PKG_SRCURL=https://github.com/ckolivas/lrzip/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=f4c84de778a059123040681fd47c17565fcc4fec0ccc68fcf32d97fad16cd892

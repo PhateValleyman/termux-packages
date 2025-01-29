@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 KLIBPATH=lib
 if [ "@ARCH_BITS@" == "64" ]; then

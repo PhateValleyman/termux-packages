@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://poppler.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="PDF rendering library"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Please align the version with `poppler-qt` package.
 TERMUX_PKG_VERSION="24.05.0"
 # Do not forget to bump revision of reverse dependencies and rebuild them

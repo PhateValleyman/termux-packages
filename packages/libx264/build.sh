@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.videolan.org/developers/x264.html
 TERMUX_PKG_DESCRIPTION="Library for encoding video streams into the H.264/MPEG-4 AVC format"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=4613ac3c15fd75cebc4b9f65b7fb95e70a3acce1
 # X264_BUILD from x264.h; commit count using "git rev-list --count HEAD" on x264 git repo
 TERMUX_PKG_VERSION="1:0.164.3191"

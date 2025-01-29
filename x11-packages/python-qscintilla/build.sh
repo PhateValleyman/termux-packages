@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.riverbankcomputing.com/software/qscintilla/
 TERMUX_PKG_DESCRIPTION="Python bindings for QScintilla"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Align the version with `qscintilla` package.
 TERMUX_PKG_VERSION=2.14.1
 TERMUX_PKG_REVISION=1

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rfc1036/whois
 TERMUX_PKG_DESCRIPTION="An intelligent Whois client"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.5.23"
 TERMUX_PKG_SRCURL=https://github.com/rfc1036/whois/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=dcfc08f3362c74ec8ae30691941909ebccf0cb3d27da04236f7e2790dbc7757c

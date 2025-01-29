@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/axboe/fio
 TERMUX_PKG_DESCRIPTION="Flexible I/O Tester"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.38"
 TERMUX_PKG_SRCURL=https://github.com/axboe/fio/archive/refs/tags/fio-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=73b3ca18a66fb88a90dae73b9994fdd18d35161d914ffe2089380760af5533cf

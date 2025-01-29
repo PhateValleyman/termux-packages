@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://aa-project.sourceforge.net/aview/
 TERMUX_PKG_DESCRIPTION="High quality ascii-art image browser and animation player"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.3.0rc1
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/aa-project/aview/aview-${TERMUX_PKG_VERSION}.tar.gz

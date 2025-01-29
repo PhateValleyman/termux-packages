@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 # Copyright (c) 1999-2016 Philip Hands <phil@hands.com>
 #               2013 Martin Kletzander <mkletzan@redhat.com>

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rogerbinns/apsw/
 TERMUX_PKG_DESCRIPTION="Another Python SQLite Wrapper"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.48.0.0"
 TERMUX_PKG_SRCURL=https://github.com/rogerbinns/apsw/releases/download/${TERMUX_PKG_VERSION}/apsw-${TERMUX_PKG_VERSION}.zip
 TERMUX_PKG_SHA256=4a02617b22fe87a5e9d32ae1692a638a45dc40e76c66f2b9ca22e4e309493d72

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://magyarispell.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Hungarian dictionary for hunspell"
 TERMUX_PKG_LICENSE="MPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2024.03.28
 TERMUX_PKG_AUTO_UPDATE=false
 TERMUX_PKG_SKIP_SRC_EXTRACT=true

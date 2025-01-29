@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tectonic-typesetting.github.io/
 TERMUX_PKG_DESCRIPTION="A modernized, complete, self-contained TeX/LaTeX engine"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.15.0"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=git+https://github.com/tectonic-typesetting/tectonic

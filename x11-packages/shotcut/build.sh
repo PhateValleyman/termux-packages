@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://shotcut.org/
 TERMUX_PKG_DESCRIPTION="Cross-platform Qt based Video Editor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="24.11.17"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/mltframework/shotcut/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz

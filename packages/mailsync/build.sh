@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mailsync.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A way of synchronizing a collection of mailboxes"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=5.2.7
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://master.dl.sourceforge.net/project/mailsync/mailsync/${TERMUX_PKG_VERSION}/mailsync_${TERMUX_PKG_VERSION}-1.tar.gz

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 # shellcheck disable=SC2039,SC2059
 
 # Title:         build-bootstrap.sh

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 if [ -e CMakeLists.txt ]; then
 	sed -i '1s|^|project(foo LANGUAGES C CXX)\n|' CMakeLists.txt

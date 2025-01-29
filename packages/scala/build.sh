@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.scala-lang.org
 TERMUX_PKG_DESCRIPTION="Scala 3 compiler and standard library."
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.6.2"
 TERMUX_PKG_SRCURL=https://github.com/lampepfl/dotty/releases/download/$TERMUX_PKG_VERSION/scala3-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=690f278f88ff8465dd2e8cd314d6c507ad79fef9533e89051f858c8192b7856d

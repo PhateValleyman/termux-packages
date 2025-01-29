@@ -1,4 +1,4 @@
-#! /bin/sh /usr/share/dpatch/dpatch-run
+#!/data/data/com.termux/files/usr/bin/sh /usr/share/dpatch/dpatch-run
 ## 07_tsocks-1.8_beta5-hostname-config-fix.patch by https://sourceforge.net/u/phobosk/profile/
 ##
 ## All lines beginning with `## DP:' are a description of the patch.

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/webmproject/libwebp
 TERMUX_PKG_DESCRIPTION="Library to encode and decode images in WebP format"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.0"
 TERMUX_PKG_SRCURL=https://github.com/webmproject/libwebp/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=668c9aba45565e24c27e17f7aaf7060a399f7f31dba6c97a044e1feacb930f37

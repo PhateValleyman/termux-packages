@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nghttp2.org/nghttp3/
 TERMUX_PKG_DESCRIPTION="HTTP/3 library written in C"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_SRCURL=https://github.com/ngtcp2/nghttp3/releases/download/v${TERMUX_PKG_VERSION}/nghttp3-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=b4eb6bceb99293d9a9df2031c1aad166af3d57b3e33655aca0699397b6f0d751

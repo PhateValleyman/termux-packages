@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kdabir/has
 TERMUX_PKG_DESCRIPTION="has checks presence of various command line tools and their versions on the path"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=$TERMUX_PKG_HOMEPAGE/archive/v$TERMUX_PKG_VERSION.tar.gz

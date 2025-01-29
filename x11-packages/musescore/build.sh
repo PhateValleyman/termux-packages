@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://musescore.org/
 TERMUX_PKG_DESCRIPTION="A music score editor/player"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.4.4"
 TERMUX_PKG_SRCURL=https://github.com/musescore/MuseScore/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=13d78c168bbe43e6b9bb213d03cabc727615b7e638a4ef037ef819efd2b4109b

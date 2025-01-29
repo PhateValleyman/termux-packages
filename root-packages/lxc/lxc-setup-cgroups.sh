@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 set -e
 
 export PATH=$PATH:/system/xbin:/system/bin

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://salsa.debian.org/debian/vlan
 TERMUX_PKG_DESCRIPTION="ifupdown integration for vlan configuration"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.0.5
 TERMUX_PKG_SRCURL=https://deb.debian.org/debian/pool/main/v/vlan/vlan_${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=ccf261839b79247be8dae93074e1c5fcbce3807787a0ff7aed4e1f7a9095c465

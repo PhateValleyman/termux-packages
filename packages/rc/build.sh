@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rakitzis/rc
 TERMUX_PKG_DESCRIPTION="An alternative implementation of the plan 9 rc shell"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.7.4
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/rakitzis/rc/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

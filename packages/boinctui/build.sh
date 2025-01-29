@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceforge.net/projects/boinctui/
 TERMUX_PKG_DESCRIPTION="curses based manager for Boinc client"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.7.1"
 TERMUX_PKG_SRCURL="https://sourceforge.net/projects/boinctui/files/boinctui_${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=44b059a31d1dc4d7125a48bef6c201c08fda599ed22490cbb626880bbd0ccf66

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/aeolwyr/tergent
 TERMUX_PKG_DESCRIPTION="A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.0
 TERMUX_PKG_REVISION=4
 # Build from specific revision until patches are merged upstream, or

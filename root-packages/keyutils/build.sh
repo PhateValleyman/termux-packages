@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
 TERMUX_PKG_DESCRIPTION="Utilities to control the kernel key management facility"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.6.3
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/snapshot/keyutils-${TERMUX_PKG_VERSION}.tar.gz

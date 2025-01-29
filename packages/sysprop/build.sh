@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://android.googlesource.com/platform/system/tools/sysprop
 TERMUX_PKG_DESCRIPTION="Generates cpp / java sysprop"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _TAG_VERSION=13.0.0
 _TAG_REVISION=15
 TERMUX_PKG_VERSION=${_TAG_VERSION}.${_TAG_REVISION}

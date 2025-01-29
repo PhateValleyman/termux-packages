@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 export PATH="${PATH}:/system/xbin:/system/bin"
 opts='rw,nosuid,nodev,noexec,relatime'

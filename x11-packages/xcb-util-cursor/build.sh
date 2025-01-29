@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cgit.freedesktop.org/xcb/util-cursor
 TERMUX_PKG_DESCRIPTION="XCB cursor library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.1.5"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/archive/individual/lib/xcb-util-cursor-${TERMUX_PKG_VERSION}.tar.gz

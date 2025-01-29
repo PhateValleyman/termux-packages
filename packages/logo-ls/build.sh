@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Yash-Handa/logo-ls
 TERMUX_PKG_DESCRIPTION="Modern ls command with vscode like File Icon and Git Integrations"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=f8cd9997ebfad185d5668ed0403702540828199c
 TERMUX_PKG_VERSION="2024.07.17"
 TERMUX_PKG_SRCURL=git+https://github.com/canta2899/logo-ls

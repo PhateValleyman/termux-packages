@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/goffice/
 TERMUX_PKG_DESCRIPTION="A GLib/GTK+ set of document-centric objects and utilities"
 TERMUX_PKG_LICENSE="GPL-2.0, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.57"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/goffice/${TERMUX_PKG_VERSION%.*}/goffice-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=66bfd7e31d2f6756d5a62c3670383cbba02b3cb4c1042950192a801b72a3c9ab

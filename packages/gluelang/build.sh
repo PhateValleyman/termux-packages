@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ryuichiueda.github.io/GlueLang/
 TERMUX_PKG_DESCRIPTION="A programming language that has a strong nature to be a glue of commands"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.2.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/ryuichiueda/GlueLang/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

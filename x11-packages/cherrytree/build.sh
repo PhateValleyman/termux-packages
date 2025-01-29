@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.giuspen.net/cherrytree/
 TERMUX_PKG_DESCRIPTION="A hierarchical note taking application"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.0"
 TERMUX_PKG_SRCURL=https://github.com/giuspen/cherrytree/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8d4e66b3c16e2362a4e98146e0bfe788803d9d54282392d44a917a3c74e9d32e

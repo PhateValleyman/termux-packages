@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libmateweather.mate-desktop.dev/
 TERMUX_PKG_DESCRIPTION="libmateweather is a libgnomeweather fork."
 TERMUX_PKG_LICENSE="LGPL-2.1, GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/mate-desktop/libmateweather/releases/download/v$TERMUX_PKG_VERSION/libmateweather-$TERMUX_PKG_VERSION.tar.xz

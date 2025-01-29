@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mevdschee/2048.c
 TERMUX_PKG_DESCRIPTION="Console version of the game '2048' for GNU/Linux"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1:1.0.1
 TERMUX_PKG_SRCURL="https://github.com/mevdschee/2048.c/archive/v${TERMUX_PKG_VERSION:2}.tar.gz"
 TERMUX_PKG_SHA256=43a357a6d30859f2f6e797ddf96f35c278b5f0ad7dd1bfc70c3b6d3f24e89dcd

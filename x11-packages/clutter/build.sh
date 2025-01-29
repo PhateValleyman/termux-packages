@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/Clutter
 TERMUX_PKG_DESCRIPTION="An open source software library for creating fast, compelling, portable, and dynamic graphical user interfaces"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=1.26
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.4
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/clutter/${_MAJOR_VERSION}/clutter-${TERMUX_PKG_VERSION}.tar.xz

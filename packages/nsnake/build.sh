@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/alexdantas/nSnake
 TERMUX_PKG_DESCRIPTION="The classic snake game with textual interface"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.0.1
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://github.com/alexdantas/nSnake/archive/v${TERMUX_PKG_VERSION}.tar.gz

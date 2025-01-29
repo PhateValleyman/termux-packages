@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rabbitmq/rabbitmq-server
 TERMUX_PKG_DESCRIPTION="Feature rich, multi-protocol messaging and streaming broker"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.5"
 TERMUX_PKG_SRCURL=https://github.com/rabbitmq/rabbitmq-server/releases/download/v${TERMUX_PKG_VERSION}/rabbitmq-server-generic-unix-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=2027f93b275454295d869e637e09f5cc690603d1a2e1c8273780a84bdaf57827

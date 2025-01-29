@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/World/gedit/libgedit-tepl
 TERMUX_PKG_DESCRIPTION="Library that eases the development of GtkSourceView-based text editors and IDEs"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.12.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libgedit-tepl/${TERMUX_PKG_VERSION%.*}/libgedit-tepl-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=90874d755051199e25823623ff2772027f8664a39746fb82d0f8d44f12d2a3f2

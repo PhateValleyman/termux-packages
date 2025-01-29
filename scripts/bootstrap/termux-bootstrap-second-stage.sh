@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # shellcheck shell=bash
 
 export TERMUX_PREFIX="@TERMUX_PREFIX@"

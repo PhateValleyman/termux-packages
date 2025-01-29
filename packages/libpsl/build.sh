@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rockdaboot/libpsl
 TERMUX_PKG_DESCRIPTION="Public Suffix List library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.21.5"
 TERMUX_PKG_SRCURL=https://github.com/rockdaboot/libpsl/releases/download/${TERMUX_PKG_VERSION}/libpsl-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1dcc9ceae8b128f3c0b3f654decd0e1e891afc6ff81098f227ef260449dae208

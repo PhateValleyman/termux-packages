@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mgba.io/
 TERMUX_PKG_DESCRIPTION="An emulator for running Game Boy Advance games"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.4"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/mgba-emu/mgba/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

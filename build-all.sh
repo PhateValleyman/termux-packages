@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # build-all.sh - script to build all packages with a build order specified by buildorder.py
 
 set -e -u -o pipefail

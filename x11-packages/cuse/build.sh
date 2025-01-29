@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://pi4.informatik.uni-mannheim.de/~haensel/cuse/
 TERMUX_PKG_DESCRIPTION="A MIDI-Sequencer which targets both terminal purists and visually impaired people"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.6
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/project/cuse/cuse-${TERMUX_PKG_VERSION}.tgz

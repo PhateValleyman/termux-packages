@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ericniebler/range-v3
 TERMUX_PKG_DESCRIPTION="Range library for C++14/17/20, basis for C++20's std::ranges"
 TERMUX_PKG_LICENSE="BSL-1.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.12.0"
 TERMUX_PKG_SRCURL=https://github.com/ericniebler/range-v3/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=015adb2300a98edfceaf0725beec3337f542af4915cec4d0b89fa0886f4ba9cb

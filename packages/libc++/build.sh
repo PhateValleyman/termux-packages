@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libcxx.llvm.org/
 TERMUX_PKG_DESCRIPTION="C++ Standard Library"
 TERMUX_PKG_LICENSE="NCSA"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Version should be equal to TERMUX_NDK_{VERSION_NUM,REVISION} in
 # scripts/properties.sh
 TERMUX_PKG_VERSION=27c

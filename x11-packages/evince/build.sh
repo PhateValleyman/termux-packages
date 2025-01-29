@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/Evince
 TERMUX_PKG_DESCRIPTION="document viewer for multiple document formats"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="46.3.1"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/evince/${TERMUX_PKG_VERSION%%.*}/evince-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=945c20a6f23839b0d5332729171458e90680da8264e99c6f9f41c219c7eeee7c

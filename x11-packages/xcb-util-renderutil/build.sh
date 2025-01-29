@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xcb.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Utility libraries for XC Binding - Convenience functions for the Render extension"
 TERMUX_PKG_LICENSE="HPND, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.3.10
 TERMUX_PKG_SRCURL=https://xcb.freedesktop.org/dist/xcb-util-renderutil-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=3e15d4f0e22d8ddbfbb9f5d77db43eacd7a304029bf25a6166cc63caa96d04ba

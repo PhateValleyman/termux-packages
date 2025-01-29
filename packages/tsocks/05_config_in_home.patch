@@ -1,4 +1,4 @@
-#! /bin/sh /usr/share/dpatch/dpatch-run
+#!/data/data/com.termux/files/usr/bin/sh /usr/share/dpatch/dpatch-run
 ## 05_config_in_home.dpatch by Reinhard Tartler <siretart@tauware.de>
 ##
 ## All lines beginning with `## DP:' are a description of the patch.

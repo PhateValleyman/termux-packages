@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 . $(dirname "$(realpath "$0")")/properties.sh
 source "$TERMUX_PREFIX/bin/termux-setup-package-manager" || true

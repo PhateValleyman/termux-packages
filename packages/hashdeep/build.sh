@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://md5deep.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Programs to compute hashsums of arbitrary number of files recursively"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=4.4
 TERMUX_PKG_REVISION=8
 TERMUX_PKG_SRCURL=https://github.com/jessek/hashdeep/archive/v$TERMUX_PKG_VERSION.tar.gz

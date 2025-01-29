@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tdb.samba.org/
 TERMUX_PKG_DESCRIPTION="A trivial database system"
 TERMUX_PKG_LICENSE="LGPL-3.0, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.12"
 TERMUX_PKG_SRCURL=https://samba.org/ftp/tdb/tdb-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6ce4b27498812d09237ece65a0d6dfac0941610e709848ecb822aa241084cd7a

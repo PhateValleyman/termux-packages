@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ib/xarchiver
 TERMUX_PKG_DESCRIPTION="GTK+ frontend to various command line archivers"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.4.23"
 TERMUX_PKG_SRCURL=https://github.com/ib/xarchiver/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=319935cd323e865d8aa12023b5286c314c128491ac58e853e63f6d6ea3da2a27

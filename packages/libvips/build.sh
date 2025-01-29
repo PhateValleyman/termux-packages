@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libvips.github.io/libvips/
 TERMUX_PKG_DESCRIPTION="A fast image processing library with low memory needs"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="8.16.0"
 TERMUX_PKG_SRCURL=https://github.com/libvips/libvips/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d28d7bf7e3f8fa17390c255ace4a05a1c56459e1f6015319f4847ea0733593b3

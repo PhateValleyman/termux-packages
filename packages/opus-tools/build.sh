@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.opus-codec.org/
 TERMUX_PKG_DESCRIPTION="Utilities to encode and decode .opus files"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.2
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://downloads.xiph.org/releases/opus/opus-tools-${TERMUX_PKG_VERSION}.tar.gz

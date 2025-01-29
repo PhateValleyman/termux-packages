@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://rada.re
 TERMUX_PKG_DESCRIPTION="Advanced Hexadecimal Editor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.9.8"
 TERMUX_PKG_SRCURL=https://github.com/radare/radare2/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=e45e4fd342f04b2e00363bc1b68cc375c1cf36041085d3d59caa7a3b7be43836

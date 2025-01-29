@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="X.org 75dpi fonts"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.4
 _FONT_ADOBE_UTOPIA_VERSION=${TERMUX_PKG_VERSION%.*}.$((${TERMUX_PKG_VERSION##*.}+1))
 TERMUX_PKG_SRCURL=(https://xorg.freedesktop.org/releases/individual/font/font-adobe-75dpi-${TERMUX_PKG_VERSION}.tar.xz

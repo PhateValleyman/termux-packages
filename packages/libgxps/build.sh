@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/libgxps
 TERMUX_PKG_DESCRIPTION="handling and rendering XPS documents"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=0.3
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.2
 TERMUX_PKG_REVISION=2

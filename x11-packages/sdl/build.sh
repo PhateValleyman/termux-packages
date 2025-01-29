@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.libsdl.org
 TERMUX_PKG_DESCRIPTION="Simple DirectMedia Layer (SDL) sdl12-compat"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.60"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/libsdl-org/sdl12-compat/archive/refs/tags/release-${TERMUX_PKG_VERSION}.tar.gz

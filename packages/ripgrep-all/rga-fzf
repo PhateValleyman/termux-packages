@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 RG_PREFIX="rga --files-with-matches"
 file="$(
         FZF_DEFAULT_COMMAND="$RG_PREFIX '$1'" \

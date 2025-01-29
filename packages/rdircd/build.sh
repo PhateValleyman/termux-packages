@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mk-fg/reliable-discord-client-irc-daemon
 TERMUX_PKG_DESCRIPTION="A daemon that allows using a personal Discord account through an IRC client"
 TERMUX_PKG_LICENSE="WTFPL"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=026f1aef9857ae6ce06bfb00860898e6113adfc0
 TERMUX_PKG_VERSION=2023.02.07
 TERMUX_PKG_REVISION=1

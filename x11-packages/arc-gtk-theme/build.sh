@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jnsh/arc-theme/
 TERMUX_PKG_DESCRIPTION="A flat theme with transparent elements"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=20221218
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/jnsh/arc-theme/releases/download/${TERMUX_PKG_VERSION}/arc-theme-${TERMUX_PKG_VERSION}.tar.xz

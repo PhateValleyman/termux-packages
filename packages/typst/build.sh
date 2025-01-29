@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://typst.app/
 TERMUX_PKG_DESCRIPTION="A new markup-based typesetting system that is powerful and easy to learn"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.12.0"
 TERMUX_PKG_SRCURL="https://github.com/typst/typst/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=5e92463965c0cf6aa003a3bacd1c68591ef2dc0db59dcdccb8f7b084836a1266

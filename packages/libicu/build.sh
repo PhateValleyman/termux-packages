@@ -4,7 +4,7 @@ TERMUX_PKG_LICENSE="custom"
 # We override TERMUX_PKG_SRCDIR termux_step_post_get_source so need to do
 # this hack to be able to find the license file.
 TERMUX_PKG_LICENSE_FILE="../LICENSE"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Never forget to always bump revision of reverse dependencies and rebuild them
 # when bumping "major" version.
 TERMUX_PKG_VERSION="76.1"

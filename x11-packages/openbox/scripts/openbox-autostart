@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 GLOBALAUTOSTART="@TERMUX_PREFIX@/etc/xdg/openbox/autostart"
 AUTOSTART="${XDG_CONFIG_HOME:-"$HOME/.config"}/openbox/autostart"

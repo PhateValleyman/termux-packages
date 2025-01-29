@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.irc.org/
 TERMUX_PKG_DESCRIPTION="An Internet Relay Chat (IRC) daemon"
 TERMUX_PKG_LICENSE="GPL-2.0" # GPL-1.0-or-later
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.11.2p3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://www.irc.org/ftp/irc/server/irc${TERMUX_PKG_VERSION}.tgz

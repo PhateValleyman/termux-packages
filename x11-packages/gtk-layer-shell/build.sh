@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wmww/gtk-layer-shell
 TERMUX_PKG_DESCRIPTION="Library to create panels and other desktop components for Wayland using the Layer Shell protocol"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.9.0"
 TERMUX_PKG_SRCURL=git+https://github.com/wmww/gtk-layer-shell
 TERMUX_PKG_AUTO_UPDATE=true

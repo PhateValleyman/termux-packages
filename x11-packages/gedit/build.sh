@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gedit-technology.github.io/apps/gedit/
 TERMUX_PKG_DESCRIPTION="GNOME Text Editor"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="48.1"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gedit/${TERMUX_PKG_VERSION%.*}/gedit-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=971e7ac26bc0a3a3ded27a7563772415687db0e5a092b4547e5b10a55858b30a

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://timidity.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="MIDI-to-WAVE converter and player"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.15.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/timidity/TiMidity++-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.freedesktop.org/xorg/util/bdftopcf
 TERMUX_PKG_DESCRIPTION="convert X font from Bitmap Distribution Format to Portable Compiled Format"
 TERMUX_PKG_LICENSE="HPND"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.2"
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/archive/individual/util/bdftopcf-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=bc60be5904330faaa3ddd2aed7874bee2f29e4387c245d6787552f067eb0523a

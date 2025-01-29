@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/termux
 TERMUX_PKG_DESCRIPTION="GPG public keys for the official Termux repositories"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.12
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_AUTO_UPDATE=false

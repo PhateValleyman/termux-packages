@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/benhoyt/inih
 TERMUX_PKG_DESCRIPTION="A simple .INI file parser written in C"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="58"
 TERMUX_PKG_SRCURL=https://github.com/benhoyt/inih/archive/refs/tags/r${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e79216260d5dffe809bda840be48ab0eec7737b2bb9f02d2275c1b46344ea7b7

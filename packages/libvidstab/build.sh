@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/georgmartius/vid.stab
 TERMUX_PKG_DESCRIPTION="video stabilization library"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/georgmartius/vid.stab/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

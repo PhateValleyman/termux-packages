@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mplayerhq.hu/
 TERMUX_PKG_DESCRIPTION="The Movie Player"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.5
 TERMUX_PKG_REVISION=7
 TERMUX_PKG_SRCURL=https://mplayerhq.hu/MPlayer/releases/MPlayer-${TERMUX_PKG_VERSION}.tar.xz

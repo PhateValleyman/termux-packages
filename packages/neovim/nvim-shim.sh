@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/data/data/com.termux/files/usr/bin/env sh
 
 # For further details see:
 # https://github.com/termux/termux-packages/issues/22328

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/data/data/com.termux/files/usr/bin/python3
 import sys
 
 if len(sys.argv) < 2:

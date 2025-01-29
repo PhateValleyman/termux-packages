@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libsndfile.github.io/libsamplerate/
 TERMUX_PKG_DESCRIPTION="A library for performing sample rate conversion of audio data"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.2.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/libsndfile/libsamplerate/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

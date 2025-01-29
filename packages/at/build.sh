@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://salsa.debian.org/debian/at
 TERMUX_PKG_DESCRIPTION="AT and batch delayed command scheduling utility and daemon"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.2.5
 TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_SRCURL=https://deb.debian.org/debian/pool/main/a/at/at_${TERMUX_PKG_VERSION}.orig.tar.gz

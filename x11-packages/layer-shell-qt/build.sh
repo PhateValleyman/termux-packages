@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://invent.kde.org/plasma/layer-shell-qt
 TERMUX_PKG_DESCRIPTION="Qt component to allow applications to make use of the Wayland wl-layer-shell protocol"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.2.5"
 TERMUX_PKG_SRCURL=https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/layer-shell-qt-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=bc09870218df387c377bad2fed4b2a8f39121ddbdc5c6bb28a40be0c1b000c77

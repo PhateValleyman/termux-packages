@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A multiple large virtual desktop window manager original
 # Licenses: GPL-2.0, FVWM
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.7.0
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://github.com/fvwmorg/fvwm/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

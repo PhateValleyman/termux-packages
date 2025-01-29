@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 
 qmake_output=$(@TERMUX_PREFIX@/opt/qt6/cross/bin/qmake6 $@)
 

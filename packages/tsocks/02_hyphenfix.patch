@@ -1,4 +1,4 @@
-#! /bin/sh /usr/share/dpatch/dpatch-run
+#!/data/data/com.termux/files/usr/bin/sh /usr/share/dpatch/dpatch-run
 ## 02_hyphenfix.dpatch by Nico Golde <nion@debian.org>
 ##
 ## All lines beginning with `## DP:' are a description of the patch.

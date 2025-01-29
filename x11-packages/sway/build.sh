@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/swaywm/sway
 TERMUX_PKG_DESCRIPTION="i3-compatible Wayland compositor"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.10"
 TERMUX_PKG_SRCURL=https://github.com/swaywm/sway/releases/download/$TERMUX_PKG_VERSION/sway-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=7472a7f11150212e0bed0bd0af9f591c9caac9f9ea87c35486e475a21f5ce81f

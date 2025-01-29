@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/antonmedv/walk
 TERMUX_PKG_DESCRIPTION="A terminal file manager"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.10.0"
 TERMUX_PKG_SRCURL=https://github.com/antonmedv/walk/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=76e8db66942af53447f5ab3f0aaec49b539a68714130e46c83a01fff9c00438f

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 set -x
 
 if [ $# -eq 0 ]; then

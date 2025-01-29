@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.tarsnap.com/scrypt.html
 TERMUX_PKG_DESCRIPTION="scrypt KDF library and file encryption tool"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.2"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://www.tarsnap.com/scrypt/scrypt-${TERMUX_PKG_VERSION}.tgz

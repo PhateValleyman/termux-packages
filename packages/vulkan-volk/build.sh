@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/zeux/volk
 TERMUX_PKG_DESCRIPTION="Meta loader for Vulkan API"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.304"
 TERMUX_PKG_SRCURL=https://github.com/zeux/volk/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=ab3d4a8ccaeb32652259cdd008399504a41792675b0421d90b67729ee274746f

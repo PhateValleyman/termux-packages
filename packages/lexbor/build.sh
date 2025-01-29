@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://lexbor.com"
 TERMUX_PKG_DESCRIPTION="Fast embeddable web browser engine written in C with no dependencies"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4.0"
 TERMUX_PKG_SRCURL="https://github.com/lexbor/lexbor/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=8949744d425743828891de6d80327ccb64b5146f71ff6c992644e6234e63930e

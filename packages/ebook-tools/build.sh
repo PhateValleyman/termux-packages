@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://sourceforge.net/projects/ebook-tools/'
 TERMUX_PKG_DESCRIPTION='Tools for accessing and converting various ebook file formats'
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/ebook-tools/ebook-tools-${TERMUX_PKG_VERSION}.tar.gz

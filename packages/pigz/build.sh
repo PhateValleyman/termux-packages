@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.zlib.net/pigz
 TERMUX_PKG_DESCRIPTION="Parallel implementation of the gzip file compressor"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.8
 TERMUX_PKG_SRCURL=https://www.zlib.net/pigz/pigz-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=eb872b4f0e1f0ebe59c9f7bd8c506c4204893ba6a8492de31df416f0d5170fd0

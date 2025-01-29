@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libxmlplusplus.github.io/libxmlplusplus/
 TERMUX_PKG_DESCRIPTION="A C++ wrapper for the libxml2 XML parser library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=2.42
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.2
 TERMUX_PKG_REVISION=1

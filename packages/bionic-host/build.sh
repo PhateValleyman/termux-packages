@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://android.googlesource.com/platform/bionic/
 TERMUX_PKG_DESCRIPTION="bionic libc, libm, libdl and dynamic linker for ubuntu host"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="8.0.0-r51"
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SHA256=6b42a86fc2ec58f86862a8f09a5465af0758ce24f2ca8c3cabb3bb6a81d96525

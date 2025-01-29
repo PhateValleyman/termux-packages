@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 PRE_GENERATED_DUMP_DIR="$TERMUX_PKG_GIR_PRE_GENERATED_DUMP_DIR"
 G_IR_COMPILER="${TERMUX_G_IR_COMPILER:-g-ir-compiler}"

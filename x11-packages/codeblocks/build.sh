@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.codeblocks.org/
 TERMUX_PKG_DESCRIPTION="Code::Blocks is the Integrated Development Environment (IDE)"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=20.03
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/codeblocks/files/Sources/${TERMUX_PKG_VERSION}/codeblocks-${TERMUX_PKG_VERSION}.tar.xz

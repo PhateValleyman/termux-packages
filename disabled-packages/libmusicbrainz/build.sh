@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://musicbrainz.org/doc/libmusicbrainz
 TERMUX_PKG_DESCRIPTION="The MusicBrainz Client Library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=()
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_VERSION+=(5.1.0)

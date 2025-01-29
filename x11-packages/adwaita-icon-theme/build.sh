@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/adwaita-icon-theme
 TERMUX_PKG_DESCRIPTION="GNOME standard icons"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="47.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/adwaita-icon-theme/${TERMUX_PKG_VERSION%.*}/adwaita-icon-theme-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=ad088a22958cb8469e41d9f1bba0efb27e586a2102213cd89cc26db2e002bdfe

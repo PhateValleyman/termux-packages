@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://lz4.github.io/lz4/
 TERMUX_PKG_DESCRIPTION="Fast LZ compression algorithm library"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.10.0"
 TERMUX_PKG_SRCURL=https://github.com/lz4/lz4/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=537512904744b35e232912055ccf8ec66d768639ff3abe5788d90d792ec5f48b

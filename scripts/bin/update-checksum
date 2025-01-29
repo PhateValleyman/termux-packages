@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 ##
 ##  Package update helper script which sets new SHA-256 for source bundle.
 ##

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dylanaraps/neofetch
 TERMUX_PKG_DESCRIPTION="Simple system information script"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=7.1.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/dylanaraps/neofetch/archive/${TERMUX_PKG_VERSION}/neofetch-${TERMUX_PKG_VERSION}.tar.gz

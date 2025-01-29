@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/env bash
 # setup CGCT - Cross Gnu Compilers for Termux
 # compile glibc-based binaries for Termux
 

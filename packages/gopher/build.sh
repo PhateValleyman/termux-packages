@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=gopher://gopher.quux.org/1/devel/gopher
 TERMUX_PKG_DESCRIPTION="University of Minnesota gopher"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.0.17.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://archive.ubuntu.com/ubuntu/pool/universe/g/gopher/gopher_${TERMUX_PKG_VERSION}.tar.gz

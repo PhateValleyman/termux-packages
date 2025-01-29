@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 # shellcheck shell=sh
 
 (

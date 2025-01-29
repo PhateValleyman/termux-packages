@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bombadillo.colorfield.space/
 TERMUX_PKG_DESCRIPTION="A non-web client for the terminal, supporting Gopher, Gemini and much more"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.4.0
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://deb.debian.org/debian/pool/main/b/bombadillo/bombadillo_${TERMUX_PKG_VERSION}.orig.tar.gz

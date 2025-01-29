@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://www.nongnu.org/simulavr"
 TERMUX_PKG_DESCRIPTION="Simulator for Microchip AVR (formerly Atmel) microcontrollers"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _VERSION_MAJOR=1
 _VERSION_MINOR=1
 _VERSION_PATCH=0

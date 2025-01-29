@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mega.io/
 TERMUX_PKG_DESCRIPTION="Provides non UI access to MEGA services"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=git+https://github.com/meganz/MEGAcmd

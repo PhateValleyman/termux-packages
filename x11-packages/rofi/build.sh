@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://davatorium.github.io/rofi/
 TERMUX_PKG_DESCRIPTION="A window switcher, application launcher and dmenu replacement"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.8"
 TERMUX_PKG_SRCURL="https://github.com/davatorium/rofi/releases/download/$TERMUX_PKG_VERSION/rofi-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=2ad90a8c492e0b64202088e788795bf0b31ecfaa59fe7441ad263298d150655e

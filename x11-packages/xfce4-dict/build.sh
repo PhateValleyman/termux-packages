@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/apps/xfce4-dict/start
 TERMUX_PKG_DESCRIPTION="Dictionary for XFCE desktop"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.8"
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/apps/xfce4-dict/${TERMUX_PKG_VERSION%.*}/xfce4-dict-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=0d0cb079d276d82c174a52c94ee4df12df490a525befc44650e261f8e5eae916

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.sr.ht/~ghost08/ratt
 TERMUX_PKG_DESCRIPTION="A tool for converting websites to rss/atom feeds"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=ed1a675685b9d86d6602e168199ba9b4260f5f06
 TERMUX_PKG_VERSION=2023.02.02
 TERMUX_PKG_REVISION=2

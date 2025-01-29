@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 set -e -u
 
-: "${TERMUX_PKG_TMPDIR:="/tmp"}"
+: "${TERMUX_PKG_TMPDIR:="/data/data/com.termux/files/usr/tmp"}"
 
 # Install desired parts of the Android SDK:
 . $(cd "$(dirname "$0")"; pwd)/properties.sh
@@ -72,6 +72,5 @@ yes | $SDK_MANAGER --sdk_root="$ANDROID_HOME" --licenses
 yes | $SDK_MANAGER --sdk_root="$ANDROID_HOME" \
 		"platform-tools" \
 		"build-tools;${TERMUX_ANDROID_BUILD_TOOLS_VERSION}" \
-		"platforms;android-35" \
-		"platforms;android-28" \
+		"platforms;android-33" \
 		"platforms;android-24"

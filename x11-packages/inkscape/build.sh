@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://inkscape.org/
 TERMUX_PKG_DESCRIPTION="Free and open source vector graphics editor"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://media.inkscape.org/dl/resources/file/inkscape-${TERMUX_PKG_VERSION}.tar.xz

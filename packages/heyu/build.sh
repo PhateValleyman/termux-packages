@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.heyu.org/
 TERMUX_PKG_DESCRIPTION="Program for remotely controlling lights and appliances"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1:2.10.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/HeyuX10Automation/heyu/archive/v${TERMUX_PKG_VERSION:2}.tar.gz"

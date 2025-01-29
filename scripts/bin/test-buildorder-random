@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 # Randomise buildorder.py test on packages directory
 
 export TERMUX_SCRIPTDIR

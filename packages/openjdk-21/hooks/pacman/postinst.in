@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 if [ -f @TERMUX_PREFIX@/etc/profile.d/java.sh ]; then
 	raelpath=$(readlink @TERMUX_PREFIX@/etc/profile.d/java.sh)

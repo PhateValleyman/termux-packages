@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://aerc-mail.org/
 TERMUX_PKG_DESCRIPTION="A pretty good email client"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.20.0"
 TERMUX_PKG_SRCURL=https://git.sr.ht/~rjarry/aerc/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1a7d6172b5740ead40bf1400cd45f00400822bb6af00aef76d04b386a4292d8c

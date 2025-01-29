@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.freedesktop.org/wiki/Software/xdg-utils/
 TERMUX_PKG_DESCRIPTION="A set of simple scripts that provide basic desktop integration functions for any Free Desktop"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.1.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/xdg/xdg-utils/-/archive/v${TERMUX_PKG_VERSION}/xdg-utils-v${TERMUX_PKG_VERSION}.tar.bz2

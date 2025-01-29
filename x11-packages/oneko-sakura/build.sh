@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.daidouji.com/oneko
 TERMUX_PKG_DESCRIPTION="oneko-sakurais modified version of oneko, KINOMOTO Sakura chases around your mouse cursor"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.sakura.6"
 TERMUX_PKG_SRCURL=git+https://github.com/tie/oneko
 TERMUX_PKG_AUTO_UPDATE=false

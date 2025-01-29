@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://stand-up-notes.org
 TERMUX_PKG_DESCRIPTION="A very simple note taking cli app"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.0
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/basbossink/sun/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

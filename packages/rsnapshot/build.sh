@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.rsnapshot.org/
 TERMUX_PKG_DESCRIPTION="A remote filesystem snapshot utility"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.5"
 TERMUX_PKG_SRCURL=https://github.com/rsnapshot/rsnapshot/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=8ef500e2eaee85a37fb8000f73b3b1325569fcfe940a7e8ea66a8f243cb289a3

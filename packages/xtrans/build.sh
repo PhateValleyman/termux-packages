@@ -2,7 +2,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="X transport library"
 TERMUX_PKG_LICENSE="MIT, HPND"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.2"
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/releases/individual/lib/xtrans-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=5c5cbfe34764a9131d048f03c31c19e57fb4c682d67713eab6a65541b4dff86c

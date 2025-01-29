@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://fselect.rocks/
 TERMUX_PKG_DESCRIPTION="Find files with SQL-like queries"
 TERMUX_PKG_LICENSE="Apache-2.0, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.8"
 TERMUX_PKG_SRCURL=https://github.com/jhspetersson/fselect/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=0f586c3870a66d4a3ab7b92409dcf0f68a23bd8031ec0cc3f1622efebe190c9e

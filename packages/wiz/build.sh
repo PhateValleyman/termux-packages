@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://wiz-lang.org/
 TERMUX_PKG_DESCRIPTION="A high-level assembly language for writing homebrew software for retro console platforms"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=a174205e1694ab225c11813d3a3ab9e81742869d
 TERMUX_PKG_VERSION=2022.06.02
 TERMUX_PKG_SRCURL=git+https://github.com/wiz-lang/wiz

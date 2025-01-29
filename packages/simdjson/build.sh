@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://simdjson.org/
 TERMUX_PKG_DESCRIPTION="A C++ library to see how fast we can parse JSON with complete validation"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.11.6"
 TERMUX_PKG_SRCURL=https://github.com/simdjson/simdjson/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=7176a2feb98e1b36b6b9fa56d64151068865f505a0ce24203f3ddbb3f985103b

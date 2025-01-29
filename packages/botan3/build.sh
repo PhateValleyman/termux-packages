@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://botan.randombit.net/
 TERMUX_PKG_DESCRIPTION="Crypto and TLS for Modern C++"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # This specific package is for libbotan-3.
 TERMUX_PKG_VERSION="3.6.1"
 TERMUX_PKG_SRCURL=https://botan.randombit.net/releases/Botan-${TERMUX_PKG_VERSION}.tar.xz

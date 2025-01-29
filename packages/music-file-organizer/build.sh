@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.zx2c4.com/music-file-organizer/about/
 TERMUX_PKG_DESCRIPTION="Organizer of audio files into directories based on metadata tags"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.4
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://git.zx2c4.com/music-file-organizer/snapshot/music-file-organizer-$TERMUX_PKG_VERSION.tar.xz

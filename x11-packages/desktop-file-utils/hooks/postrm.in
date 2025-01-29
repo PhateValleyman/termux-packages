@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 if [ "${1}" = "remove" ]; then
     if [ -d "@TERMUX_PREFIX@/share/applications" ]; then

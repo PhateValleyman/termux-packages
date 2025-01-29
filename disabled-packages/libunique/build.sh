@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnome.org
 TERMUX_PKG_DESCRIPTION="Library for writing single instance applications"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0.2"
 TERMUX_PKG_SRCURL=https://ftp.gnome.org/pub/GNOME/sources/libunique/${TERMUX_PKG_VERSION%.*}/libunique-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=50269a87c7aabf1e25f01b3bbb280133138ffd7b6776289894c614a4b6ca968d

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/1oom-fork/1oom
 TERMUX_PKG_DESCRIPTION="A Master of Orion (1993) game engine recreation"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.11"
 TERMUX_PKG_SRCURL=https://github.com/1oom-fork/1oom/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=572edfb43ca09370616a3da7431e5688c0aa717bb9a80e1fd3fed1be630c3829

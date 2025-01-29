@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 DIR="@TERMUX_PREFIX@/opt/emscripten"
 cd "${DIR}"
 if [ -n "$(command -v npm)" ]; then

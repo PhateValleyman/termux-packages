@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://texlab.netlify.app/
 TERMUX_PKG_DESCRIPTION="A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.21.0"
 TERMUX_PKG_SRCURL=git+https://github.com/latex-lsp/texlab
 TERMUX_PKG_BUILD_IN_SRC=true

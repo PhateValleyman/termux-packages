@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://zssh.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A program for interactively transferring files to a remote machine while using the secure shell (ssh)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.5c
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/zssh/zssh-${TERMUX_PKG_VERSION}.tgz

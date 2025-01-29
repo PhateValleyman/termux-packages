@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/pipeseroni/pipes.sh
 TERMUX_PKG_DESCRIPTION="Animated pipes terminal screensaver"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=581792d4e0ea51e15889ba14a85db1bc9727b83d
 TERMUX_PKG_VERSION=2018.04.22
 TERMUX_PKG_REVISION=1

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/TheLocehiliosan/yadm
 TERMUX_PKG_DESCRIPTION="Yet Another Dotfiles Manager"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.0"
 TERMUX_PKG_SRCURL=https://github.com/TheLocehiliosan/yadm/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=a977836ee874fece3d69b5a8f7436e6ce4e6bf8d2520f8517c128281cc6b101d

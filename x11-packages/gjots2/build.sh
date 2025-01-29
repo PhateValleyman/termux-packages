@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://bhepple.freeshell.org/gjots
 TERMUX_PKG_DESCRIPTION="A hierarchical note jotter"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.2.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/gjots2/files/gjots2/${TERMUX_PKG_VERSION}/gjots2-${TERMUX_PKG_VERSION}.tgz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rrthomas/psutils
 TERMUX_PKG_DESCRIPTION="Library for handling paper characteristics (by @rrthomas)"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.2.5"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/rrthomas/libpaper/releases/download/v${TERMUX_PKG_VERSION}/libpaper-${TERMUX_PKG_VERSION}.tar.gz"

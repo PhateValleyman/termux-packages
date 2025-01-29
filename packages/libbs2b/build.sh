@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bs2b.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Bauer stereophonic-to-binaural DSP"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.1.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/bs2b/libbs2b-${TERMUX_PKG_VERSION}.tar.bz2

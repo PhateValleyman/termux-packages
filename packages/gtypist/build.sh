@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/gtypist/
 TERMUX_PKG_DESCRIPTION="Universal typing tutor"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.10"
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/gtypist/gtypist-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=f1e79cd95742c84c6d035f6d8f393a2a1be0e00b1c016a22462df16d6667562c

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/OCL-dev/ocl-icd
 TERMUX_PKG_DESCRIPTION="OpenCL ICD Loader"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.3.2"
 TERMUX_PKG_SRCURL=https://github.com/OCL-dev/ocl-icd/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=ec47d7dcd961ea06695b067e8b7edb82e420ddce03e0081a908c62fd0b8535c5

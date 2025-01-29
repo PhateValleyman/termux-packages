@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # list-packages.sh - tool to list all package with home pages and descriptions
 
 show_package() {

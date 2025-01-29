@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mj.ucw.cz/sw/pciutils/
 TERMUX_PKG_DESCRIPTION="a collection of programs for inspecting and manipulating configuration of PCI devices"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.13.0"
 TERMUX_PKG_SRCURL=https://mj.ucw.cz/download/linux/pci/pciutils-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a03c88a0aab709b1697ca1753766f443e78297f84c7bcd80a82c1422edd7cb42

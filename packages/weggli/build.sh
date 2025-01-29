@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/googleprojectzero/weggli"
 TERMUX_PKG_DESCRIPTION="A fast and robust semantic search tool for C and C++ codebases"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.4"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL="https://github.com/googleprojectzero/weggli/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"

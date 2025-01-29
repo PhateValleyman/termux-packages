@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 
 if test -n "$1"; then
     echo "Syntax: openbox-session"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.libsdl.org/projects/SDL_net/
 TERMUX_PKG_DESCRIPTION="A small sample cross-platform networking library"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=3079ee39e1224d744fdedc066280690c8ec40bb1
 _COMMIT_DATE=20221115
 TERMUX_PKG_VERSION=1.2.8-p${_COMMIT_DATE}

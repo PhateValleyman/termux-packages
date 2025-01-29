@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/hboetes/mg
 TERMUX_PKG_DESCRIPTION="microscopic GNU Emacs-style editor"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="20240709"
 TERMUX_PKG_SRCURL=https://github.com/hboetes/mg/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=8b2c7574f161172098d6e7feb8a8b7112afbc0604a53cb3a04268e7b32fe45ad

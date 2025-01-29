@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/termux/termux-packages
 TERMUX_PKG_DESCRIPTION="A metapackage that installs essential development tools"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=4.1
 TERMUX_PKG_AUTO_UPDATE=false
 TERMUX_PKG_DEPENDS="clang, make, pkg-config"

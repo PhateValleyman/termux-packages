@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/vcrhonek/hwdata
 TERMUX_PKG_DESCRIPTION="Database of hardware identification and configuration data"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.391"
 TERMUX_PKG_SRCURL=https://github.com/vcrhonek/hwdata/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=620fe1c22922a3d1bd1062424e9cc6b954acea2f83b72ff0cb45144981cb1975

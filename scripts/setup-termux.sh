@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 PACKAGES=""
 # Tier 1: requirements for the core build scripts in scripts/build/.

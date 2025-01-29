@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 termux_pkg_is_update_needed() {
 	# USAGE: termux_pkg_is_update_needed <current-version> <latest-version>
