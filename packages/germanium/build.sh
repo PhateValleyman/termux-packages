@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/matsuyoshi30/germanium
 TERMUX_PKG_DESCRIPTION="Generate image from source code"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.3"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/matsuyoshi30/germanium/archive/v$TERMUX_PKG_VERSION.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/FreeMasen/mdbook-presentation-preprocessor
 TERMUX_PKG_DESCRIPTION="A preprocessor for utilizing an MDBook as slides for a presentation"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/FreeMasen/mdbook-presentation-preprocessor/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

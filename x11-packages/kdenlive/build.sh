@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://apps.kde.org/kdenlive/'
 TERMUX_PKG_DESCRIPTION='A non-linear video editor for Linux using the MLT video framework'
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="24.12.1"
 TERMUX_PKG_SRCURL=https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kdenlive-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=6d1345462a1ad9a725dbf9ab42b8b340eeafc8437d9c0f52ac5ebacfdfd9b8b2

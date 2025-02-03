@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://boinc.berkeley.edu/
 TERMUX_PKG_DESCRIPTION="Open-source software for volunteer computing"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=8
 _MINOR_VERSION=0
 TERMUX_PKG_VERSION="8.0.4"

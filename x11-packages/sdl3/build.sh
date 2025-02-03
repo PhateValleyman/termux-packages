@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.libsdl.org
 TERMUX_PKG_DESCRIPTION="Simple DirectMedia Layer 3"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.2.0"
 TERMUX_PKG_SRCURL=https://github.com/libsdl-org/SDL/releases/download/release-${TERMUX_PKG_VERSION}/SDL3-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=bf308f92c5688b1479faf5cfe24af72f3cd4ce08d0c0670d6ce55bc2ec1e9a5e

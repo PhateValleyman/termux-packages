@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/shlomif/rinutils
 TERMUX_PKG_DESCRIPTION="A C11 / gnu11 utilities C library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.3"
 TERMUX_PKG_SRCURL=https://github.com/shlomif/rinutils/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6e4af1edb5cedb660d97607a7b02bec0eb25137d4a832ca00b42238753f0e02a

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://plantuml.com/
 TERMUX_PKG_DESCRIPTION="Draws UML diagrams, using a simple and human readable text description"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2025.0"
 TERMUX_PKG_SRCURL=https://github.com/plantuml/plantuml/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=4430ab69c296ff7cf0656f206b769f3d7cddca599cb69011fc20438ce5bb613a

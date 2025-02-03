@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mosh.org
 TERMUX_PKG_DESCRIPTION="Mobile shell that supports roaming and intelligent local echo"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.4.0
 TERMUX_PKG_REVISION=11
 TERMUX_PKG_SRCURL=https://github.com/mobile-shell/mosh/releases/download/mosh-${TERMUX_PKG_VERSION}/mosh-${TERMUX_PKG_VERSION}.tar.gz

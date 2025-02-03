@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.colm.net/open-source/colm/
 TERMUX_PKG_DESCRIPTION="COmputer Language Machinery"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.14.7
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.colm.net/files/colm/colm-${TERMUX_PKG_VERSION}.tar.gz

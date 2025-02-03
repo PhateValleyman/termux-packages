@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://hugin.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Toolchain to create panoramic images for every occasion"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2024.0.1"
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/hugin/hugin-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=13ec0cdeeb4eb63149c833768d3e374e7cf5a6a8d8d02d50885ce496f05ba7e4

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/measurement-factory/dnstop
 TERMUX_PKG_DESCRIPTION="A libpcap application that displays various tables of DNS traffic on your network"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=2ec80df727aee31bbaaf9cccd8adbd16ca539bb3
 TERMUX_PKG_VERSION=2022.10.19
 TERMUX_PKG_SRCURL=git+https://github.com/measurement-factory/dnstop

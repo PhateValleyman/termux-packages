@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gogs.io
 TERMUX_PKG_DESCRIPTION="A painless self-hosted Git service"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.13.2"
 TERMUX_PKG_SRCURL=https://github.com/gogs/gogs/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=e49050dbabf7496b6f50ed1a92b5df3437190a45fc031b3a612218151f4db55d

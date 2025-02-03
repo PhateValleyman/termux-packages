@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://strophe.im/libstrophe
 TERMUX_PKG_DESCRIPTION="libstrophe is a minimal XMPP library written in C"
 TERMUX_PKG_LICENSE="MIT, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.13.1"
 TERMUX_PKG_SRCURL=https://github.com/strophe/libstrophe/releases/download/${TERMUX_PKG_VERSION}/libstrophe-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a1319f2bbd8e2669359e6a74afa416fa4d52c103b82d89d1e5f56bda3f80cefa

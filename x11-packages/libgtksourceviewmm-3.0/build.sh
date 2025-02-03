@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/GtkSourceView
 TERMUX_PKG_DESCRIPTION="C++ binding for gtksourceview"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=3.21
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.3
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gtksourceviewmm/${_MAJOR_VERSION}/gtksourceviewmm-${TERMUX_PKG_VERSION}.tar.xz

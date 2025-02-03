@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/World/gedit/libgedit-amtk
 TERMUX_PKG_DESCRIPTION="Actions, Menus and Toolbars Kit for GTK applications"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.9.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libgedit-amtk/${TERMUX_PKG_VERSION%.*}/libgedit-amtk-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=7fc3348bef242e08967bdbb9a6698cf39f7810f95051fd8132910f36ed2d6d15

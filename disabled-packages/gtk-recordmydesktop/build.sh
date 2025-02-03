@@ -2,7 +2,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Enselic/recordmydesktop
 TERMUX_PKG_DESCRIPTION="GTK frontend to recordMyDesktop"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.4.0
 TERMUX_PKG_SRCURL=https://github.com/Enselic/recordmydesktop/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=69602d32c1be82cd92083152c7c44c0206ca0d6419d76a6144ffcfe07b157a72

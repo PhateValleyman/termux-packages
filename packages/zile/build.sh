@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/zile/
 TERMUX_PKG_DESCRIPTION="Lightweight clone of the Emacs text editor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.6.2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/zile/zile-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=77eb7daff3c98bdc88daa1ac040dccca72b81dc32fc3166e079dd7a63e42c741

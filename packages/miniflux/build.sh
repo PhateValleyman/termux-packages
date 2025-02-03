@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://miniflux.app/
 TERMUX_PKG_DESCRIPTION="A minimalist and opinionated feed reader"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.2.4"
 TERMUX_PKG_SRCURL=https://github.com/miniflux/v2/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d7a00e7de54edf499d5797f09df4f77c0e66dbc57445a1837d89ae80347c07c2

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dev.maxmind.com/geoip/geoip2/
 TERMUX_PKG_DESCRIPTION="MaxMind GeoIP2 database - library and utilities"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.12.2"
 TERMUX_PKG_SRCURL=https://github.com/maxmind/libmaxminddb/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=c325cb952d512b12a715e0a08aedff0d16791db528dc3f23af576057398d66ab

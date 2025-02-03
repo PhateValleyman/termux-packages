@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.freedesktop.org/wayland/weston
 TERMUX_PKG_DESCRIPTION="Reference implementation of a wayland compositor"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="14.0.1"
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/wayland/weston/-/archive/${TERMUX_PKG_VERSION}/weston-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=0cd789cf0a2a4db43733078bc69d99c296cf79c7cbed439af8593359e3a97678

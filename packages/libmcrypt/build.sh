@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mcrypt.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A library which provides a uniform interface to several symmetric encryption algorithms"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.5.8"
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/mcrypt/libmcrypt-$TERMUX_PKG_VERSION.tar.bz2

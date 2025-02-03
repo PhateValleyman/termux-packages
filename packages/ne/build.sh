@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ne.di.unimi.it/
 TERMUX_PKG_DESCRIPTION="Easy-to-use and powerful text editor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.3"
 TERMUX_PKG_SRCURL=https://github.com/vigna/ne/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=4f7509bb552e10348f9599f39856c8b7a2a74ea54c980dd2c9e15be212a1a6f0

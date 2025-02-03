@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.glfw.org/
 TERMUX_PKG_DESCRIPTION="An Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=9a87635686c7fcb63ca63149c5b179b85a53a725
 _COMMIT_DATE=20230303
 TERMUX_PKG_VERSION=3.3.8-p${_COMMIT_DATE}

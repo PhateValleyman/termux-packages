@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.polyphone-soundfonts.com/
 TERMUX_PKG_DESCRIPTION="An open-source soundfont editor for creating musical instruments"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.3.0
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/davy7125/polyphone/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://lv2plug.in/
 TERMUX_PKG_DESCRIPTION="A plugin standard for audio systems"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.18.10
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://lv2plug.in/spec/lv2-${TERMUX_PKG_VERSION}.tar.xz

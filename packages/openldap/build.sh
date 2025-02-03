@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://openldap.org
 TERMUX_PKG_DESCRIPTION="OpenLDAP server"
 TERMUX_PKG_LICENSE="OpenLDAP"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.6.9"
 TERMUX_PKG_SRCURL=https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-${TERMUX_PKG_VERSION}.tgz
 TERMUX_PKG_SHA256=2cb7dc73e9c8340dff0d99357fbaa578abf30cc6619f0521972c555681e6b2ff

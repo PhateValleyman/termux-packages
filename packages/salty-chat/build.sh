@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://salty.im/
 TERMUX_PKG_DESCRIPTION="A secure, easy, self-hosted messaging"
 TERMUX_PKG_LICENSE="MIT, WTFPL"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.0.22
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://git.mills.io/saltyim/saltyim/archive/${TERMUX_PKG_VERSION}.tar.gz

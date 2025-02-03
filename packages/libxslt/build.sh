@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://xmlsoft.org/libxslt/
 TERMUX_PKG_DESCRIPTION="XSLT processing library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.42"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://gitlab.gnome.org/GNOME/libxslt/-/archive/v${TERMUX_PKG_VERSION}/libxslt-v${TERMUX_PKG_VERSION}.tar.gz"

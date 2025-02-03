@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://elkowar.github.io/eww/
 TERMUX_PKG_DESCRIPTION="ElKowars wacky widgets"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.6.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=git+https://github.com/elkowar/eww

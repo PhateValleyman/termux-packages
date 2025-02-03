@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://6xq.net/pianobar/
 TERMUX_PKG_DESCRIPTION="pianobar is a free/open-source, console-based client for the personalized online radio Pandora."
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2024.12.21"
 TERMUX_PKG_SRCURL=https://github.com/PromyLOPh/pianobar/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e988dff4a4b7cc6a19e944b7516f697d7e6c41d6dc0ff25a708bcb6b92d72a89

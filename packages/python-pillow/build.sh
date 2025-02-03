@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://python-pillow.org/
 TERMUX_PKG_DESCRIPTION="Python Imaging Library"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="11.1.0"
 TERMUX_PKG_SRCURL=https://github.com/python-pillow/Pillow/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1e63499468dc069a31ea0226b531be1c1c31b185b80616f8707066aba599db12

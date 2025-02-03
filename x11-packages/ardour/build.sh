@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ardour.org/
 TERMUX_PKG_DESCRIPTION="A professional digital workstation for working with audio and MIDI"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="8.10"
 TERMUX_PKG_SRCURL=git+https://github.com/Ardour/ardour
 TERMUX_PKG_GIT_BRANCH=$TERMUX_PKG_VERSION

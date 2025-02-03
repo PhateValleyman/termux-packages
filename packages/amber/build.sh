@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dalance/amber
 TERMUX_PKG_DESCRIPTION="A code search / replace tool"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.6.0
 TERMUX_PKG_SRCURL=https://github.com/dalance/amber/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=41908502077197f55ec86b3a4dd4059a78deae9833e9ba33302b1146cc1ec3f5

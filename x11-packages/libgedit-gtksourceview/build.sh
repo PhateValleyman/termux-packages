@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/World/gedit/libgedit-gtksourceview
 TERMUX_PKG_DESCRIPTION="A source code editing widget"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="299.4.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libgedit-gtksourceview/${TERMUX_PKG_VERSION%%.*}/libgedit-gtksourceview-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=20c17ff89e2031aed5dc1107fe9a93fd50f92b569be2954b119c86f9e2fd85d6

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://smxi.org/site/about.htm#inxi
 TERMUX_PKG_DESCRIPTION="Full featured CLI system information tool"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.37-1"
 TERMUX_PKG_SRCURL=https://codeberg.org/smxi/inxi/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=da730f84f4a2ca53bab471860a83995c9d498bb34c2518fbb7ff65ee705e048e

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.videolan.org/
 TERMUX_PKG_DESCRIPTION="A popular libre and open source media player and multimedia engine"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0.21"
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://download.videolan.org/pub/videolan/vlc/${TERMUX_PKG_VERSION}/vlc-${TERMUX_PKG_VERSION}.tar.xz

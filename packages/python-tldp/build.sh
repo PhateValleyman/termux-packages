@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tLDP/python-tldp
 TERMUX_PKG_DESCRIPTION="Tools for publishing from TLDP sources"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.7.5
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://github.com/tLDP/python-tldp/archive/refs/tags/tldp-${TERMUX_PKG_VERSION}.tar.gz

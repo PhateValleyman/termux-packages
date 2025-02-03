@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gcc.gnu.org/
 TERMUX_PKG_DESCRIPTION="Libraries coming with GCC (libgcc, libstdc++, etc.)"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(12.2.0)
 TERMUX_PKG_VERSION+=(2.39)  # GNU Binutils version
 TERMUX_PKG_VERSION+=(4.1.0) # GNU MPFR version

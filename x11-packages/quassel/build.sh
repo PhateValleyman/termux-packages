@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://quassel-irc.org/
 TERMUX_PKG_DESCRIPTION="Quassel IRC is a modern, cross-platform, distributed IRC client"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.14.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/quassel/quassel/releases/download/$TERMUX_PKG_VERSION/quassel-$TERMUX_PKG_VERSION.tar.xz

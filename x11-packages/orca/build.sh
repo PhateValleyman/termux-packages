@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://orca.gnome.org/
 TERMUX_PKG_DESCRIPTION="A free, open source, flexible, and extensible screen reader"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="47.3"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/orca/${TERMUX_PKG_VERSION%.*}/orca-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=1b0b145bb685cd74eca3e28cb7b7097f98d13ee1cc58b71edeed3a8f9045231b

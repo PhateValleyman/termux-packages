@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://groovy-lang.org/
 TERMUX_PKG_DESCRIPTION="A powerful multi-faceted programming language for the JVM platform"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.16"
 TERMUX_PKG_REVISION=3
 _JANSI_VERSION=2.4.1

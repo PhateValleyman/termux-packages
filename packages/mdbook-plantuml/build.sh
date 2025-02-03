@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/sytsereitsma/mdbook-plantuml
 TERMUX_PKG_DESCRIPTION="mdBook preprocessor to render PlantUML code blocks as images in your book"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.8.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=git+https://github.com/sytsereitsma/mdbook-plantuml

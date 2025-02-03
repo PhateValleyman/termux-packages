@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/groonga/groonga/
 TERMUX_PKG_DESCRIPTION="An embeddable fulltext search engine"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="14.1.3"
 TERMUX_PKG_SRCURL=https://github.com/groonga/groonga/releases/download/v${TERMUX_PKG_VERSION}/groonga-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d0e84232cec53209e3b2d1952471aa75d3b8b9c59a68632043d4657e10cd65d9

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://saitoha.github.io/libsixel/
 TERMUX_PKG_DESCRIPTION="Encoder/decoder implementation for DEC SIXEL graphics"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.10.5"
 TERMUX_PKG_SRCURL=https://github.com/libsixel/libsixel/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=b6654928bd423f92e6da39eb1f40f10000ae2cc6247247fc1882dcff6acbdfc8

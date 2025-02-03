@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://speex.org/
 TERMUX_PKG_DESCRIPTION="Speex audio processing library"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.2.1
 TERMUX_PKG_SRCURL=https://github.com/xiph/speexdsp/archive/SpeexDSP-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d17ca363654556a4ff1d02cc13d9eb1fc5a8642c90b40bd54ce266c3807b91a7

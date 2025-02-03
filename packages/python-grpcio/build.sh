@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://grpc.io/
 TERMUX_PKG_DESCRIPTION="High performance, open source, general RPC framework that puts mobile and HTTP/2 first"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_SRCURL=git+https://github.com/grpc/grpc
 TERMUX_PKG_VERSION="1.69.0"
 TERMUX_PKG_AUTO_UPDATE=true

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://hg.mozilla.org/projects/nspr
 TERMUX_PKG_DESCRIPTION="Netscape Portable Runtime (NSPR)"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.36"
 TERMUX_PKG_SRCURL=https://archive.mozilla.org/pub/nspr/releases/v${TERMUX_PKG_VERSION}/src/nspr-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=55dec317f1401cd2e5dba844d340b930ab7547f818179a4002bce62e6f1c6895

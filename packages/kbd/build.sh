@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://kbd-project.org/"
 TERMUX_PKG_DESCRIPTION="KBD's showkey utility for examining keycodes"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.6.4
 TERMUX_PKG_SRCURL=https://mirrors.edge.kernel.org/pub/linux/utils/kbd/kbd-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=99b2a39e1c5475ffe8e1bb2004345cb8849c3cc1aedbe541beee2d45e270975f

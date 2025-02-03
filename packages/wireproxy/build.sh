@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/pufferffish/wireproxy
 TERMUX_PKG_DESCRIPTION="Wireguard client that exposes itself as a socks5 proxy"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.9"
 TERMUX_PKG_SRCURL=https://github.com/pufferffish/wireproxy/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=6359d060740ad878f0c26217d44968a58a069302447e15774cbf747b8d1404d2

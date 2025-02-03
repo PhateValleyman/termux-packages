@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/istathar/slashtime
 TERMUX_PKG_DESCRIPTION="A small program which displays the time in various places"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=aa4e96d36ec6e4cb56e3567c560c1c209f4fd492
 TERMUX_PKG_VERSION=2023.01.04
 TERMUX_PKG_REVISION=1

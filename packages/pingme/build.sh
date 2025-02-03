@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kha7iq/pingme
 TERMUX_PKG_DESCRIPTION="A small utility which can be called from anywhere to send a message with particular information"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.6"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/kha7iq/pingme/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

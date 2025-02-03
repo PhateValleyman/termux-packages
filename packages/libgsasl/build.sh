@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/gsasl
 TERMUX_PKG_DESCRIPTION="GNU SASL library"
 TERMUX_PKG_LICENSE="LGPL-2.1, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.2.1"
 TERMUX_PKG_SRCURL=https://ftp.gnu.org/gnu/gsasl/gsasl-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=d45b562e13bd13b9fc20b372f4b53269740cf6279f836f09ce11b9d32bcee075

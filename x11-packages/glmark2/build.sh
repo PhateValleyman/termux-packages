@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/glmark2/glmark2
 TERMUX_PKG_DESCRIPTION="glmark2 is an OpenGL 2.0 and ES 2.0 benchmark"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2023.01
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/glmark2/glmark2/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

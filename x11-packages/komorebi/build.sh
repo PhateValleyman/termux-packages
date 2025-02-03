@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/cheesecakeufo/komorebi
 TERMUX_PKG_DESCRIPTION="Animated Wallpapers for Linux"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.1
 TERMUX_PKG_SRCURL=https://github.com/cheesecakeufo/komorebi/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=66ee2fe21e16c3f9c18b824fa88a8b726812b1fdd81217cb53f7dad8d6dbae0f

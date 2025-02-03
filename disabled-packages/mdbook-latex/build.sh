@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/lbeckman314/mdbook-latex
 TERMUX_PKG_DESCRIPTION="An mdbook backend for generating LaTeX and PDF documents"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.1.42
 TERMUX_PKG_SRCURL=https://github.com/lbeckman314/mdbook-latex/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=4b480a79e491a49653104de51d3ee409929093ffef04b2b2c707f09e7ce2e1f8

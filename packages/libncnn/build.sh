@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Tencent/ncnn
 TERMUX_PKG_DESCRIPTION="A high-performance neural network inference framework optimized for the mobile platform"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=4b97730b0d033b4dc2a790e5c35745e0dbf51569
 TERMUX_PKG_VERSION="20230627"
 TERMUX_PKG_REVISION=6

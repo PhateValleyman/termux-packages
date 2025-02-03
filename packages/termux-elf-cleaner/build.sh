@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/termux/termux-elf-cleaner
 TERMUX_PKG_DESCRIPTION="Cleaner of ELF files for Android"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Please update checksum in termux_step_start_build.sh as well if
 # updating the package.
 TERMUX_PKG_VERSION=3.0.1

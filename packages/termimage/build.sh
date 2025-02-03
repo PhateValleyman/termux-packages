@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/nabijaczleweli/termimage
 TERMUX_PKG_DESCRIPTION="Terminal image viewer"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.1"
 TERMUX_PKG_SRCURL=https://github.com/nabijaczleweli/termimage/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=a6f21c2675ec259975b106cde8688f876d9799c4453ff983c849c9f193ecda88

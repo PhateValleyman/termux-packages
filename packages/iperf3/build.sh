@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/esnet/iperf
 TERMUX_PKG_DESCRIPTION="TCP, UDP, and SCTP network bandwidth measurement tool"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.18"
 TERMUX_PKG_SRCURL=https://github.com/esnet/iperf/releases/download/$TERMUX_PKG_VERSION/iperf-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=c0618175514331e766522500e20c94bfb293b4424eb27d7207fb427b88d20bab

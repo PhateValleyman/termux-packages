@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/libhangul/libhangul
 TERMUX_PKG_DESCRIPTION="A library to support hangul input method logic"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=154a5e0f13aebc80a465336642a406d6ddfc06cf
 _COMMIT_DATE=20230415
 TERMUX_PKG_VERSION=0.1.0-p${_COMMIT_DATE}

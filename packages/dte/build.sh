@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://craigbarnes.gitlab.io/dte/'
 TERMUX_PKG_DESCRIPTION='A small, configurable console text editor'
 TERMUX_PKG_LICENSE='GPL-2.0'
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.11.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://gitlab.com/craigbarnes/dte/-/archive/v${TERMUX_PKG_VERSION}/dte-v${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/radare/acr
 TERMUX_PKG_DESCRIPTION="A fully compatible autoconf replacement"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.1.4"
 TERMUX_PKG_SRCURL=https://github.com/radare/acr/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=6ab55ddd64963176eb7ffd88b2c63c107ce1208e4a3a9b6239df26a86426e7f1

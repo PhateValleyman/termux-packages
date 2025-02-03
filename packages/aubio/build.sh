@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://aubio.org/
 TERMUX_PKG_DESCRIPTION="A library to label music and sounds"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.4.9
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://aubio.org/pub/aubio-${TERMUX_PKG_VERSION}.tar.bz2

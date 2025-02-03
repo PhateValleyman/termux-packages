@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/RasmusLindroth/tut
 TERMUX_PKG_DESCRIPTION="A TUI for Mastodon with vim inspired keys"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.1"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/RasmusLindroth/tut/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

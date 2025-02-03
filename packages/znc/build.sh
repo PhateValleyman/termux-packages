@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://znc.in/
 TERMUX_PKG_DESCRIPTION="An advanced IRC bouncer"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.9.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://znc.in/releases/archive/znc-${TERMUX_PKG_VERSION}.tar.gz

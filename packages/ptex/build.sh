@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wdas/ptex
 TERMUX_PKG_DESCRIPTION="Per-Face Texture Mapping for Production Rendering"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4.3"
 TERMUX_PKG_SRCURL=https://github.com/wdas/ptex/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=435aa2ee1781ff24859bd282b7616bfaeb86ca10604b13d085ada8aa7602ad27

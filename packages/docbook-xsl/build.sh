@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docbook.org/
 TERMUX_PKG_DESCRIPTION="XML stylesheets for Docbook-xml transformations"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.79.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_AUTO_UPDATE=false

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnome.pages.gitlab.gnome.org/libadwaita/
 TERMUX_PKG_DESCRIPTION="Building blocks for modern adaptive GNOME applications"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.6.4"
 TERMUX_PKG_SRCURL=https://gitlab.gnome.org/GNOME/libadwaita/-/archive/${TERMUX_PKG_VERSION}/libadwaita-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=01966095a0f6c4c2f50705ae991d2776d0ba8f473f6c26df66fd16e26e9fe221

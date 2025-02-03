@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/charmbracelet/glow
 TERMUX_PKG_DESCRIPTION="Render markdown on the CLI, with pizzazz!"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.0"
 TERMUX_PKG_SRCURL=https://github.com/charmbracelet/glow/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=55872e36c006e7e715b86283baf14add1f85b0a0304e867dd0d80e8d7afe49a8

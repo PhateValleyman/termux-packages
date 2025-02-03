@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cmus.github.io/
 TERMUX_PKG_DESCRIPTION="Small, fast and powerful console music player"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.12.0"
 TERMUX_PKG_REVISION="3"
 TERMUX_PKG_DEPENDS="ffmpeg, libandroid-support, libflac, libiconv, libmad, libmodplug, libvorbis, libwavpack, ncurses, opusfile, pulseaudio"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/json-c/json-c/wiki
 TERMUX_PKG_DESCRIPTION="A JSON implementation in C"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.18"
 TERMUX_PKG_SRCURL=https://s3.amazonaws.com/json-c_releases/releases/json-c-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=876ab046479166b869afc6896d288183bbc0e5843f141200c677b3e8dfb11724

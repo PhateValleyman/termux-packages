@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/action/show/Projects/libsoup
 TERMUX_PKG_DESCRIPTION="HTTP client and server library"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # This specific package is for libsoup-2.4.
 # libsoup-3.0 is packaged as libsoup3.
 TERMUX_PKG_VERSION=2.74.3

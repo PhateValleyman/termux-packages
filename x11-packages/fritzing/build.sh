@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://fritzing.org/
 TERMUX_PKG_DESCRIPTION="An Electronic Design Automation software"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.9.6
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://github.com/fritzing/fritzing-app/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

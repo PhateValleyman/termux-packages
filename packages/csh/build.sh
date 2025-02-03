@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://packages.debian.org/sid/csh
 TERMUX_PKG_DESCRIPTION="C Shell with process control from 3BSD"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=20110502
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://deb.debian.org/debian/pool/main/c/csh/csh_${TERMUX_PKG_VERSION}.orig.tar.gz

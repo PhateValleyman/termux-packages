@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.cairographics.org/cairomm/
 TERMUX_PKG_DESCRIPTION="Provides a C++ interface to cairo"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.18.0"
 TERMUX_PKG_SRCURL=https://www.cairographics.org/releases/cairomm-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=b81255394e3ea8e8aa887276d22afa8985fc8daef60692eb2407d23049f03cfb

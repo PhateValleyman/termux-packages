@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.libsdl.org/projects/SDL_image/
 TERMUX_PKG_DESCRIPTION="A simple library to load images of various formats as SDL surfaces"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=9a5bd2d522c8e0f5a92ba7c8c1bac123228611d0
 _COMMIT_DATE=20230130
 TERMUX_PKG_VERSION=1.2.12-p${_COMMIT_DATE}

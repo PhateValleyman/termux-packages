@@ -5,7 +5,7 @@ TERMUX_PKG_SRCURL=https://github.com/kkos/oniguruma/releases/download/v$TERMUX_P
 TERMUX_PKG_SHA256=2a5cfc5ae259e4e97f86b68dfffc152cdaffe94e2060b770cb827238d769fc05
 TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 
 termux_step_post_get_source() {
 	# Do not forget to bump revision of reverse dependencies and rebuild them

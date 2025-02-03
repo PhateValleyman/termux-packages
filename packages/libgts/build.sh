@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gts.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Provides useful functions to deal with 3D surfaces meshed with interconnected triangles"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.7.6
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/project/gts/gts/${TERMUX_PKG_VERSION}/gts-${TERMUX_PKG_VERSION}.tar.gz

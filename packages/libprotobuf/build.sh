@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Protocol buffers C++ library"
 # utf8_range is licensed under MIT
 TERMUX_PKG_LICENSE="BSD 3-Clause, MIT"
 TERMUX_PKG_LICENSE_FILE="LICENSE"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # When bumping version:
 # - update SHA256 checksum for $_PROTOBUF_ZIP in
 #     $TERMUX_SCRIPTDIR/scripts/build/setup/termux_setup_protobuf.sh

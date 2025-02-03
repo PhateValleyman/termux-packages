@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mosh.org
 TERMUX_PKG_DESCRIPTION="Mobile shell that supports roaming and intelligent local echo. Bleeding edge git version."
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2022.02.04
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_GIT_BRANCH=master

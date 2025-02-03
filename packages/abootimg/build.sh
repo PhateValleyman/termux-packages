@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/ajs124/abootimg
 TERMUX_PKG_DESCRIPTION="Pack or unpack android boot images"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.6
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://gitlab.com/ajs124/abootimg/-/archive/v${TERMUX_PKG_VERSION}/abootimg-v${TERMUX_PKG_VERSION}.tar.gz

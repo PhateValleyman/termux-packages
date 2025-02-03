@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/doy/rbw
 TERMUX_PKG_DESCRIPTION="An unofficial command line client for Bitwarden"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.13.2"
 TERMUX_PKG_SRCURL=https://github.com/doy/rbw/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=afe8887b64c4da6e5f33535d02ad4e1fe75c536a55d63291622b4b339522d138

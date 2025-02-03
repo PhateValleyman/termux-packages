@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://developer.android.com/studio/command-line/apksigner
 TERMUX_PKG_DESCRIPTION="APK signing tool from Android SDK"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Do not use the TERMUX_ANDROID_BUILD_TOOLS_VERSION variable when specifying:
 TERMUX_PKG_VERSION=33.0.1
 TERMUX_PKG_AUTO_UPDATE=false

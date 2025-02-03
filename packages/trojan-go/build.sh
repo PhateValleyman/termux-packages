@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://p4gefau1t.github.io/trojan-go
 TERMUX_PKG_DESCRIPTION="A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.6"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/p4gefau1t/trojan-go/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

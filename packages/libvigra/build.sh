@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ukoethe.github.io/vigra/
 TERMUX_PKG_DESCRIPTION="Computer vision library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.12.1"
 TERMUX_PKG_SRCURL=https://github.com/ukoethe/vigra/archive/refs/tags/Version-${TERMUX_PKG_VERSION//./-}.tar.gz
 TERMUX_PKG_SHA256=8836a40a340f96ed2abf53780e883c5bf58002eb182cfccb4255b553ca48db33

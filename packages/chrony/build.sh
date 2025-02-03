@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://chrony-project.org/
 TERMUX_PKG_DESCRIPTION="chrony is an implementation of the Network Time Protocol (NTP)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.6.1"
 TERMUX_PKG_SRCURL=https://chrony-project.org/releases/chrony-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=571ff73fbf0ae3097f0604eca2e00b1d8bb2e91affe1a3494785ff21d6199c5c

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.duktape.org/
 TERMUX_PKG_DESCRIPTION="An embeddable Javascript engine with a focus on portability and compact footprint"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.7.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/svaarala/duktape/releases/download/v$TERMUX_PKG_VERSION/duktape-$TERMUX_PKG_VERSION.tar.xz

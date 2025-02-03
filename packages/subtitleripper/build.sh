@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://subtitleripper.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="DVD subtitle ripper for Linux"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _VERSION=0.3-4
 TERMUX_PKG_VERSION=${_VERSION//-/.}
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/subtitleripper/subtitleripper-${_VERSION}.tgz

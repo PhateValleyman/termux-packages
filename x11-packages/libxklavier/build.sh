@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.freedesktop.org/wiki/Software/LibXklavier/
 TERMUX_PKG_DESCRIPTION="High-level API for X Keyboard Extension"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=5.4
 TERMUX_PKG_REVISION=26
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/archived-projects/libxklavier/-/archive/libxklavier-${TERMUX_PKG_VERSION}/libxklavier-libxklavier-${TERMUX_PKG_VERSION}.tar.gz

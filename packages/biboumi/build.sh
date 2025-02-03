@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://biboumi.louiz.org/
 TERMUX_PKG_DESCRIPTION="An XMPP gateway that connects to IRC servers and translates between the two protocols"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=9.0
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://github.com/louiz/biboumi/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

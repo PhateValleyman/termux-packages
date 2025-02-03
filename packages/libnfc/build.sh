@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/nfc-tools/libnfc
 TERMUX_PKG_DESCRIPTION="Free/Libre Near Field Communication (NFC) library"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.8.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/nfc-tools/libnfc/releases/download/libnfc-${TERMUX_PKG_VERSION}/libnfc-${TERMUX_PKG_VERSION}.tar.bz2

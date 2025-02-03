@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="http://chipmunk2d.net"
 TERMUX_PKG_DESCRIPTION="A fast and lightweight 2D game physics library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.0.3"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/slembcke/Chipmunk2D/archive/refs/tags/Chipmunk-$TERMUX_PKG_VERSION.tar.gz"

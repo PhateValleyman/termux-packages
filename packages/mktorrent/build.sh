@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Rudde/mktorrent
 TERMUX_PKG_DESCRIPTION="command line utility to create BitTorrent metainfo files"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=de7d011b35458de1472665f50b96c9cf6c303f39
 _COMMIT_DATE=20210130
 TERMUX_PKG_VERSION=1.1-p${_COMMIT_DATE}

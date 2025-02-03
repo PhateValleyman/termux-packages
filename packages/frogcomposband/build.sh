@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/sulkasormi/frogcomposband/
 TERMUX_PKG_DESCRIPTION="Open world Angband variant with many additions"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_SRCURL=git+https://github.com/sulkasormi/frogcomposband
 TERMUX_PKG_VERSION=7.1.salmiak
 TERMUX_PKG_REVISION=1

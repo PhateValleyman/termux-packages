@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://invisible-island.net/diffstat/diffstat.html
 TERMUX_PKG_DESCRIPTION="Displays a histogram of changes to a file"
 TERMUX_PKG_LICENSE="HPND"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.67"
 TERMUX_PKG_SRCURL=https://github.com/ThomasDickey/diffstat-snapshots/archive/refs/tags/v${TERMUX_PKG_VERSION/./_}.tar.gz
 # invisible-mirror.net is not suitable for CI due to bad responsiveness.

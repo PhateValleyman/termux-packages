@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/libgtop
 TERMUX_PKG_DESCRIPTION="Library for collecting system monitoring data"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.41.3"
 TERMUX_PKG_SRCURL=https://gitlab.gnome.org/GNOME/libgtop/-/archive/${TERMUX_PKG_VERSION}/libgtop-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=2136f5586377706c267b61c04c3f59ada69d59d83fc8967f137813a8503d0fa7

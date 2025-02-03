@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://containerd.io/
 TERMUX_PKG_DESCRIPTION="An open and reliable container runtime"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Be sure to test docker before pushing an update. With 1.6.24 or
 # 1.7.7 we get the following error:
 # $ sudo docker run -it ubuntu bash

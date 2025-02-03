@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/SimulIDE/SimulIDE
 TERMUX_PKG_DESCRIPTION="Electronic Circuit Simulator Community Edition"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=4bf26bc839147551a00938aa2949012681a3e046
 TERMUX_PKG_VERSION=2021.11.04
 TERMUX_PKG_SRCURL=git+https://github.com/SimulIDE/SimulIDE

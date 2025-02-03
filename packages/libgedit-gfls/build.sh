@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/World/gedit/libgedit-gfls
 TERMUX_PKG_DESCRIPTION="A module dedicated to file loading and saving"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.1"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libgedit-gfls/${TERMUX_PKG_VERSION%.*}/libgedit-gfls-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=b3c8e07facb4d0c444648a934ff5236d22b74154556235b90aa7828ba4816e1d

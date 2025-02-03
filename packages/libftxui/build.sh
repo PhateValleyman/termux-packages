@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ArthurSonzogni/FTXUI
 TERMUX_PKG_DESCRIPTION="A simple C++ library for terminal based user interface"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.0.0"
 TERMUX_PKG_SRCURL=https://github.com/ArthurSonzogni/FTXUI/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a2991cb222c944aee14397965d9f6b050245da849d8c5da7c72d112de2786b5b

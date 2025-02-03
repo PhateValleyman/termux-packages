@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/cococolanosugar/mdbook-auto-gen-summary
 TERMUX_PKG_DESCRIPTION="A preprocessor and cli tool for mdbook to auto generate summary"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=a8e1d8edba05c52d927880a5fe2b97180441c955
 TERMUX_PKG_VERSION=0.1.10
 TERMUX_PKG_SRCURL=git+https://github.com/cococolanosugar/mdbook-auto-gen-summary

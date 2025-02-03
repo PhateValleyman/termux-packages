@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/aeosynth/bk
 TERMUX_PKG_DESCRIPTION="A terminal EPUB reader"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.6.0"
 TERMUX_PKG_SRCURL=https://github.com/aeosynth/bk/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=c720c8e81e86709f8543ca1a97a3c30b3bb33d55692a536cefed0ad2e3dfabcd

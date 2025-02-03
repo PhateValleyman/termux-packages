@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kupferlauncher/keybinder
 TERMUX_PKG_DESCRIPTION="A library for registering global keyboard shortcuts"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.3.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/kupferlauncher/keybinder/releases/download/keybinder-3.0-v${TERMUX_PKG_VERSION}/keybinder-3.0-${TERMUX_PKG_VERSION}.tar.gz

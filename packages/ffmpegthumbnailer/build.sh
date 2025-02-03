@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dirkvdb/ffmpegthumbnailer
 TERMUX_PKG_DESCRIPTION="Lightweight video thumbnailer that can be used by file managers"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=e2062c8003d2ce8592e146c26b714311a1419ec5
 _COMMIT_DATE=20240913
 TERMUX_PKG_VERSION=2.2.3-p${_COMMIT_DATE}

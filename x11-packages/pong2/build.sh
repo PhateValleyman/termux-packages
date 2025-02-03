@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceforge.net/projects/pong2.berlios/
 TERMUX_PKG_DESCRIPTION="A Three Dimensional Pong Game"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.1.3
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://download.sourceforge.net/pong2.berlios/pong2-${TERMUX_PKG_VERSION}.tar.bz2

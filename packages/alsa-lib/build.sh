@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.alsa-project.org
 TERMUX_PKG_DESCRIPTION="The Advanced Linux Sound Architecture (ALSA) - library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2.13"
 TERMUX_PKG_SRCURL="https://github.com/alsa-project/alsa-lib/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=e296a2e8fa165855e2c8f263ff6bc0b0ea21a3bece4404135f3a181d1a03e63a

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bellard.org/quickjs/
 TERMUX_PKG_DESCRIPTION="QuickJS is a small and embeddable Javascript engine"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _YEAR=2024
 _MONTH=01
 _DAY=13

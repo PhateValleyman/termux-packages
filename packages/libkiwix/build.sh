@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kiwix/libkiwix
 TERMUX_PKG_DESCRIPTION="A library that contains a lot of things used by other kiwix programs"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="13.1.0"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/kiwix/libkiwix/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://log4c.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A C library for flexible logging to files, syslog and other destinations"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.2.4
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://prdownloads.sourceforge.net/log4c/log4c-${TERMUX_PKG_VERSION}.tar.gz

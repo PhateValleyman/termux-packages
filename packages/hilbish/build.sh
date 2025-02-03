@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://rosettea.github.io/Hilbish/
 TERMUX_PKG_DESCRIPTION="The Moon-powered shell! A comfy and extensible shell for Lua fans!"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=0582fbd30c75e5915108df0183ac05747c69a7d9 # v2.3.2
 TERMUX_PKG_VERSION="2024.07.30"
 TERMUX_PKG_SRCURL=git+https://github.com/Rosettea/Hilbish

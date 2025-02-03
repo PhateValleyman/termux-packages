@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.qsl.net/kd2bd/predict.html
 TERMUX_PKG_DESCRIPTION="A Satellite Tracking/Orbital Prediction Program"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.3.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.qsl.net/kd2bd/predict-${TERMUX_PKG_VERSION}-termux.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://kid3.kde.org/
 TERMUX_PKG_DESCRIPTION="Efficient ID3 tag editor"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.9.6"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/kid3/kid3-${TERMUX_PKG_VERSION}.tar.gz

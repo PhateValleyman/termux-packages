@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/texinfo/
 TERMUX_PKG_DESCRIPTION="Documentation system for on-line information and printed output"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.2"
 _DEBIAN_REVISION="-1"
 TERMUX_PKG_SRCURL=(

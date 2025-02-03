@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/labbots/google-drive-upload
 TERMUX_PKG_DESCRIPTION="Bash scripts to upload files to google drive"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.5"
 TERMUX_PKG_SRCURL=$TERMUX_PKG_HOMEPAGE/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=143bf7521fab80f5b8f5edf4180648043f900c8aa357f0b021f9ce8b06207df5

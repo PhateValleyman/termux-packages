@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/awesomeWM/awesome
 TERMUX_PKG_DESCRIPTION="A highly configurable, next generation framework window manager for X"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Latest release version 4.3 does not support Lua 5.4.
 _COMMIT=b54e50ad6cfdcd864a21970b31378f7c64adf3f4
 TERMUX_PKG_VERSION=2023.01.16

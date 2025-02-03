@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mp3splt.sourceforge.net
 TERMUX_PKG_DESCRIPTION="Utility to split MP3, Ogg Vorbis and native FLAC files without decoding"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.9.2
 TERMUX_PKG_REVISION=9
 TERMUX_PKG_SRCURL=http://prdownloads.sourceforge.net/mp3splt/libmp3splt-${TERMUX_PKG_VERSION}.tar.gz

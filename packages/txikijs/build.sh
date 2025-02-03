@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/saghul/txiki.js
 TERMUX_PKG_DESCRIPTION="A small and powerful JavaScript runtime"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1:22.11.1
 TERMUX_PKG_SRCURL=git+https://github.com/saghul/txiki.js
 TERMUX_PKG_DEPENDS="libcurl, libffi"

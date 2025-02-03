@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mstrobel/procyon
 TERMUX_PKG_DESCRIPTION="A standalone front-end for the Java decompiler in Procyon Compiler Toolset"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.6.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/mstrobel/procyon/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

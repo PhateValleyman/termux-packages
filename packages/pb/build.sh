@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tildegit.org/tomasino/pb
 TERMUX_PKG_DESCRIPTION="A helper utility for using 0x0 pastebin services"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2022.11.03
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/jamestomasino/pb/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

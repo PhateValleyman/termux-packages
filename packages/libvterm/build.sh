@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.leonerd.org.uk/code/libvterm/
 TERMUX_PKG_DESCRIPTION="Terminal emulator library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:0.3.3"
 TERMUX_PKG_SRCURL=https://www.leonerd.org.uk/code/libvterm/libvterm-${TERMUX_PKG_VERSION#*:}.tar.gz
 TERMUX_PKG_SHA256=09156f43dd2128bd347cbeebe50d9a571d32c64e0cf18d211197946aff7226e0

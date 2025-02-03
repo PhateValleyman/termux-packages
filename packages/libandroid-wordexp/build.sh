@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://man7.org/linux/man-pages/man3/wordexp.3.html
 TERMUX_PKG_DESCRIPTION="Shared library for the wordexp(3) system function"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.1
 TERMUX_PKG_AUTO_UPDATE=false
 TERMUX_PKG_SKIP_SRC_EXTRACT=true

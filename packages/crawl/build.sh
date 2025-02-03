@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://crawl.develz.org/
 TERMUX_PKG_DESCRIPTION="Roguelike adventure through dungeons filled with dangerous monsters"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.32.1"
 TERMUX_PKG_SRCURL=https://github.com/crawl/crawl/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8b9330a9a8156a7b93cc0964b5cc7cba8312f0cf745b64a072432f17f67f889d

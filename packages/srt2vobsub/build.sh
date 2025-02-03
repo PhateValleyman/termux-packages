@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://srt2vobsub.sourceforge.io/
 TERMUX_PKG_DESCRIPTION="A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/srt2vobsub/srt2vobsub-${TERMUX_PKG_VERSION}.tar.xz

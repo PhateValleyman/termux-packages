@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/crowdagger/crowbook
 TERMUX_PKG_DESCRIPTION="Allows you to write a book in Markdown without worrying about formatting or typography"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.16.1"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/crowdagger/crowbook/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

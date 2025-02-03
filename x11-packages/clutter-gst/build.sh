@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/Clutter
 TERMUX_PKG_DESCRIPTION="An integration library for using GStreamer with Clutter"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=3.0
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.27
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/clutter-gst/${_MAJOR_VERSION}/clutter-gst-${TERMUX_PKG_VERSION}.tar.xz

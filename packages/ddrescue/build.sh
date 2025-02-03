@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/ddrescue/
 TERMUX_PKG_DESCRIPTION="GNU data recovery tool"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.29"
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/ddrescue/ddrescue-${TERMUX_PKG_VERSION}.tar.lz
 TERMUX_PKG_SHA256=01a414327853b39fba2fd0ece30f7bee2e9d8c8e8eb314318524adf5a60039a3

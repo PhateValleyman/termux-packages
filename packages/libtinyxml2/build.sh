@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.grinninglizard.com/tinyxml2/
 TERMUX_PKG_DESCRIPTION="A simple, small, efficient, C++ XML parser"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="10.0.0"
 TERMUX_PKG_SRCURL=https://github.com/leethomason/tinyxml2/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=3bdf15128ba16686e69bce256cc468e76c7b94ff2c7f391cc5ec09e40bff3839

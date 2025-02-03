@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/lite-xl/lite-xl
 TERMUX_PKG_DESCRIPTION="A lightweight text editor written in Lua"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.1.7"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/lite-xl/lite-xl/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://packages.debian.org/sid/source/bsd-finger'
 TERMUX_PKG_DESCRIPTION="User information lookup program"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.17
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://salsa.debian.org/debian/bsd-finger/-/archive/upstream/${TERMUX_PKG_VERSION}/bsd-finger-upstream-${TERMUX_PKG_VERSION}.tar.gz

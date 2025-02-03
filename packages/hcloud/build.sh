@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/hetznercloud/cli
 TERMUX_PKG_DESCRIPTION="Hetzner Cloud command line client"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.50.0"
 TERMUX_PKG_SRCURL=https://github.com/hetznercloud/cli/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=61fb1823a176ec77c102c30b3a7de50c67df7eda6dd8a3bf1f17c882e8c78011

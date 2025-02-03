@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/peco/peco
 TERMUX_PKG_DESCRIPTION="Simplistic interactive filtering tool"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.11"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/peco/peco/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

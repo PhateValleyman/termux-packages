@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/avitex/mdbook-tera
 TERMUX_PKG_DESCRIPTION="Tera preprocessor for mdBook"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.5.1
 TERMUX_PKG_SRCURL=https://github.com/avitex/mdbook-tera/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=676477d95fa0b8f23962ccf52aa4b394d0ebac0044d33f9f11d995d8d3b98d3d

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dylanaraps/fff
 TERMUX_PKG_DESCRIPTION="A simple file manager written in bash"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.2
 TERMUX_PKG_SRCURL=https://github.com/dylanaraps/fff/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=45f6e1091986c892ea45e1ac82f2d7f5417cfb343dc569d2625b5980e6bcfb62

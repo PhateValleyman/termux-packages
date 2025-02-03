@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://asymptote.sourceforge.io/
 TERMUX_PKG_DESCRIPTION="A powerful descriptive vector graphics language for technical drawing"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.95
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/asymptote/asymptote-${TERMUX_PKG_VERSION}.src.tgz
 TERMUX_PKG_SHA256=15604fd02cb6ddbc5b807529d2e6fc617c825a184dd0d7b71390c567aeac78e7

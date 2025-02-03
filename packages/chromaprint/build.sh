@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://acoustid.org/chromaprint
 TERMUX_PKG_DESCRIPTION="C library for generating audio fingerprints used by AcoustID"
 TERMUX_PKG_LICENSE="LGPL-2.1, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=aa67c95b9e486884a6d3ee8b0c91207d8c2b0551
 _COMMIT_DATE=20221217
 TERMUX_PKG_VERSION=1.5.1-p${_COMMIT_DATE}

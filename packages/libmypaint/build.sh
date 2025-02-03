@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mypaint/libmypaint
 TERMUX_PKG_DESCRIPTION="MyPaint brush engine library"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.6.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/mypaint/libmypaint/releases/download/v${TERMUX_PKG_VERSION}/libmypaint-${TERMUX_PKG_VERSION}.tar.xz

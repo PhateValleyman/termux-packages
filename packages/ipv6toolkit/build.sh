@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.si6networks.com/research/tools/ipv6toolkit/
 TERMUX_PKG_DESCRIPTION="SI6 Networks IPv6 Toolkit"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=367bbe60489a6ae68898b9c81e672b48ad81df43
 TERMUX_PKG_VERSION=2022.09.30
 TERMUX_PKG_REVISION=2

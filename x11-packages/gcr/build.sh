@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/gcr
 TERMUX_PKG_DESCRIPTION="A library for displaying certificates and crypto UI, accessing key stores"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # This specific package is for libgcr-3.
 TERMUX_PKG_VERSION="3.41.2"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gcr/${TERMUX_PKG_VERSION%.*}/gcr-${TERMUX_PKG_VERSION}.tar.xz
